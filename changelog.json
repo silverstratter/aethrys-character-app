@@ -21,5 +21,17 @@
     "dm_only_change": true,
     "canon_conflict_created": false,
     "notes": "Exact years are used where canon records them. Current birth years are inferred from recorded ages in 831 C. Older historical birth years are conservative estimates and marked as such."
+  },
+  {
+    "date": "2026-05-11",
+    "character_ids_affected": [
+      "all_player_facing_records",
+      "all_dm_records"
+    ],
+    "summary_of_change": "Filled missing birth/death/age metadata, added lineage_summary fields, created lightweight family-lineage support records where canon was silent, linked current high-house heads to heirs, and regenerated relationships to remove self-links.",
+    "player_facing_change": true,
+    "dm_only_change": true,
+    "canon_conflict_created": false,
+    "notes": "Created lineage records are intentionally minor and marked lineage_stub=true. They exist to support family-tree navigation and can be promoted, revised, or deleted later if stronger canon replaces them."
   }
 ]
