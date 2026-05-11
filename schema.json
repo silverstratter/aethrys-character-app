@@ -48,5 +48,14 @@
     "notes": "string",
     "dm_only_notes": "string"
   },
-  "notes": "Player-facing files omit dm_only_summary and spoiler_tags. The player app only loads player-facing JSON files. Updated 2026-05-11: added year_born, year_died, and date_confidence fields."
+  "notes": "Character records now include explicit birth/death/age metadata and a lineage_summary field. Created lineage stubs are marked lineage_stub=true.",
+  "character_fields": [
+    "year_born",
+    "year_died",
+    "age_831C",
+    "age_at_death",
+    "date_confidence",
+    "lineage_summary",
+    "lineage_stub"
+  ]
 }

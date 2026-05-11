@@ -1,4 +1,4 @@
-const CACHE = 'aethrys-mobile-v2';
+const CACHE = 'aethrys-mobile-v3';
 const ASSETS = [
   './', './index.html', './style.css', './app.js', './manifest.json', './icon-192.svg', './icon-512.svg',
   './characters_player.json', './relationships_player.json', './houses.json', './factions.json', './regions.json'

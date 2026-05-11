@@ -53,7 +53,7 @@ function bindEvents() {
 }
 
 function haystack(c) {
-  return [c.display_name, c.full_name, ...(c.aliases||[]), ...(c.titles||[]), c.house, c.family, c.dynasty, c.region, c.rank_or_role, c.year_born, c.year_died, c.date_confidence, ...(c.factions||[]), c.public_reputation, c.player_facing_summary].map(norm).join(' | ');
+  return [c.display_name, c.full_name, ...(c.aliases||[]), ...(c.titles||[]), c.house, c.family, c.dynasty, c.region, c.rank_or_role, c.year_born, c.year_died, c.age_831C, c.age_at_death, c.date_confidence, c.lineage_summary, ...(c.factions||[]), c.public_reputation, c.player_facing_summary].map(norm).join(' | ');
 }
 function characterMatches(c) {
   const q = norm(state.query);
@@ -121,7 +121,8 @@ function openCharacter(id) {
   $('detailContent').innerHTML = `<h2>${escapeHtml(c.display_name || c.full_name)}</h2>
     <div class="meta">${pill(c.house)}${pill(c.region)}${pill(lifespan(c))}${pill(c.status_831C)}${pill(c.rank_or_role)}</div>
     <p>${escapeHtml(c.player_facing_summary || 'No public summary recorded yet.')}</p>
-    ${lifespan(c) ? `<p><strong>Recorded dates:</strong> ${escapeHtml(lifespan(c))}${c.date_confidence ? ` <span class="muted">(${escapeHtml(c.date_confidence)})</span>` : ''}</p>` : ''}
+    ${lifespan(c) ? `<p><strong>Recorded dates:</strong> ${escapeHtml(lifespan(c))}${c.age_at_death ? ` · age at death ${escapeHtml(c.age_at_death)}` : ''}${c.age_831C ? ` · age in 831 C ${escapeHtml(c.age_831C)}` : ''}${c.date_confidence ? ` <span class="muted">(${escapeHtml(c.date_confidence)})</span>` : ''}</p>` : ''}
+    ${c.lineage_summary ? `<p><strong>Lineage:</strong> ${escapeHtml(c.lineage_summary)}</p>` : ''}
     ${c.public_reputation ? `<p><strong>Public reputation:</strong> ${escapeHtml(c.public_reputation)}</p>` : ''}
     ${section('Parents', c.parents || [])}
     ${section('Spouse / Partner', c.spouses_or_partners || [])}
