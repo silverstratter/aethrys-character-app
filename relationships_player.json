@@ -6,7 +6,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "alaric_caldris__parent_of__princess_yselle_aurellan",
@@ -15,7 +16,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "alaric_caldris__spouse_or_partner_of__roslin_i_aurellan",
@@ -24,7 +26,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "alisanne_i_merrowyn__parent_of__princess_elswyth_merrowyn_early",
@@ -33,7 +36,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "alisanne_i_merrowyn__parent_of__sabine_i_merrowyn",
@@ -42,7 +46,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "alisanne_i_merrowyn__spouse_or_partner_of__edric_merrowyn",
@@ -51,7 +56,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "ameline_aurellan__child_of__alaric_caldris",
@@ -60,7 +66,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "ameline_aurellan__child_of__roslin_i_aurellan",
@@ -69,7 +76,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "ameline_aurellan__parent_of__prince_roland_aurellan",
@@ -78,7 +86,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "ameline_aurellan__parent_of__princess_mirelle_aurellan_daughter_of_ameline",
@@ -87,7 +96,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "ameline_aurellan__parent_of__yselle_aurellan",
@@ -96,7 +106,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "ameline_aurellan__sibling_of__princess_yselle_aurellan",
@@ -105,7 +116,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "ameline_aurellan__spouse_or_partner_of__odran_halwen",
@@ -114,7 +126,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "anja_varkel__child_of__hendrik_varkel",
@@ -123,7 +136,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "anja_varkel__child_of__vessa_thurn",
@@ -132,7 +146,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "anja_varkel__sibling_of__othmar_varkel",
@@ -141,7 +156,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "aurella_i_aurellan__parent_of__prince_tomas_aurellan",
@@ -150,7 +166,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "aurella_i_aurellan__parent_of__princess_elara_aurellan_daughter_of_aurella_i",
@@ -159,7 +176,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "aurella_i_aurellan__parent_of__roslin_i_aurellan",
@@ -168,7 +186,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "aurella_i_aurellan__spouse_or_partner_of__gavren_serrant",
@@ -177,7 +196,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "aurella_ii_aurellan__child_of__sabine_ii_aurellan",
@@ -186,7 +206,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "aurella_ii_aurellan__child_of__tomas_daurien",
@@ -195,7 +216,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "aurella_ii_aurellan__parent_of__mirelle_ii_aurellan",
@@ -204,7 +226,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "aurella_ii_aurellan__parent_of__prince_gavren_aurellan",
@@ -213,7 +236,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "aurella_ii_aurellan__parent_of__princess_elswyth_aurellan",
@@ -222,7 +246,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "aurella_ii_aurellan__sibling_of__princess_ameline_aurellan",
@@ -231,7 +256,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "aurella_ii_aurellan__spouse_or_partner_of__roland_mirec",
@@ -240,7 +266,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "bogdan_dragovic__child_of__milena_dragovic",
@@ -249,7 +276,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "bogdan_dragovic__child_of__radek_dragovic",
@@ -258,7 +286,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "bogdan_dragovic__sibling_of__erena_dragovic",
@@ -267,7 +296,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "bogdan_dragovic__sibling_of__katya_dragovic",
@@ -276,7 +306,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "bogdan_volny__child_of__danyr_volny",
@@ -285,7 +316,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "bogdan_volny__child_of__erena_volny",
@@ -294,7 +326,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "bogdan_volny__sibling_of__mirek_volny",
@@ -303,7 +336,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "bogdan_volny__sibling_of__zora_volny",
@@ -312,7 +346,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "bogna_mirekov__child_of__kasimir_mirekov",
@@ -321,7 +356,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "bogna_mirekov__child_of__zora_mirekov",
@@ -330,7 +366,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "bogna_mirekov__sibling_of__danyr_mirekov",
@@ -339,7 +376,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "bogna_mirekov__sibling_of__yarek_mirekov",
@@ -348,7 +386,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "bram_salt__parent_of__norra_salt",
@@ -357,7 +396,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "bram_salt__parent_of__rowan_salt",
@@ -366,7 +406,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "bram_salt__spouse_or_partner_of__edda_salt",
@@ -375,7 +416,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "branik_roemach__betrothed_to__erena_dragovic",
@@ -384,7 +426,8 @@
     "relationship_type": "betrothed_to",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "branik_roemach__child_of__gregor_roemach",
@@ -393,7 +436,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "branik_roemach__child_of__marda_roemach",
@@ -402,7 +446,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "branik_roemach__sibling_of__helka_roemach",
@@ -411,7 +456,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "bria_marren__child_of__corin_marren",
@@ -420,7 +466,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "bria_marren__child_of__nessa_marren",
@@ -429,7 +476,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "bria_marren__sibling_of__jory_marren",
@@ -438,7 +486,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "bria_marren__sibling_of__mael_marren",
@@ -447,7 +496,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "calista_korvassi__child_of__damis_maraxis",
@@ -456,7 +506,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "calista_korvassi__child_of__lysandra_korvassi",
@@ -465,7 +516,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "calista_korvassi__sibling_of__nikoros_korvassi",
@@ -474,7 +526,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "cassian_nemeon__parent_of__dione_nemeon",
@@ -483,7 +536,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "cassian_nemeon__parent_of__iason_nemeon",
@@ -492,7 +546,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "cassian_nemeon__parent_of__phokas_nemeon",
@@ -501,7 +556,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "cassian_nemeon__spouse_or_partner_of__thaleia_argyros",
@@ -510,7 +566,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "celene_valemar__sibling_of__renald_valemar",
@@ -519,7 +576,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "corin_ashmantle_historical__spouse_or_partner_of__maedra_ashmantle",
@@ -528,7 +586,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "corin_marren__parent_of__bria_marren",
@@ -537,7 +596,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "corin_marren__parent_of__jory_marren",
@@ -546,7 +606,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "corin_marren__parent_of__mael_marren",
@@ -555,7 +616,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "corin_marren__spouse_or_partner_of__nessa_marren",
@@ -564,7 +626,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "crown_princess_ashara_ashurim__child_of__high_consort_nasir_belasir",
@@ -573,7 +636,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "crown_princess_ashara_ashurim__child_of__samira_ashurim",
@@ -582,7 +646,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "crown_princess_ashara_ashurim__sibling_of__prince_kasef_ashurim",
@@ -591,7 +656,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "crown_princess_ashara_ashurim__sibling_of__princess_helin_ashurim",
@@ -600,7 +666,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "damis_maraxis__parent_of__calista_korvassi",
@@ -609,7 +676,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "damis_maraxis__parent_of__nikoros_korvassi",
@@ -618,7 +686,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "damis_maraxis__spouse_or_partner_of__lysandra_korvassi",
@@ -627,7 +696,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "danyr_mirekov__child_of__kasimir_mirekov",
@@ -636,7 +706,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "danyr_mirekov__child_of__zora_mirekov",
@@ -645,7 +716,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "danyr_mirekov__sibling_of__bogna_mirekov",
@@ -654,7 +726,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "danyr_mirekov__sibling_of__yarek_mirekov",
@@ -663,7 +736,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "danyr_volny__parent_of__bogdan_volny",
@@ -672,7 +746,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "danyr_volny__parent_of__mirek_volny",
@@ -681,7 +756,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "danyr_volny__parent_of__zora_volny",
@@ -690,7 +766,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "danyr_volny__spouse_or_partner_of__erena_volny",
@@ -699,7 +776,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "darya_dunin__child_of__mirek_dunin",
@@ -708,7 +786,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "darya_dunin__child_of__veska_dunin",
@@ -717,7 +796,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "darya_dunin__sibling_of__mira_dunin",
@@ -726,7 +806,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "darya_dunin__sibling_of__stivan_dunin",
@@ -735,7 +816,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "dione_nemeon__child_of__cassian_nemeon",
@@ -744,7 +826,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "dione_nemeon__child_of__thaleia_argyros",
@@ -753,7 +836,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "dione_nemeon__sibling_of__iason_nemeon",
@@ -762,7 +846,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "dione_nemeon__sibling_of__phokas_nemeon",
@@ -771,7 +856,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "doreth_kazrak__child_of__renka_balkspar",
@@ -780,7 +866,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "doreth_kazrak__child_of__stavos_kazrak",
@@ -789,7 +876,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "doreth_kazrak__sibling_of__merek_kazrak",
@@ -798,7 +886,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "edda_salt__parent_of__norra_salt",
@@ -807,7 +896,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "edda_salt__parent_of__rowan_salt",
@@ -816,7 +906,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "edda_salt__spouse_or_partner_of__bram_salt",
@@ -825,7 +916,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "edric_merrowyn__parent_of__princess_elswyth_merrowyn_early",
@@ -834,7 +926,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "edric_merrowyn__parent_of__sabine_i_merrowyn",
@@ -843,7 +936,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "edric_merrowyn__spouse_or_partner_of__alisanne_i_merrowyn",
@@ -852,7 +946,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "elara_i_aurellan__child_of__marek_valemar",
@@ -861,7 +956,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "elara_i_aurellan__child_of__yselle_aurellan",
@@ -870,7 +966,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "elara_i_aurellan__parent_of__princess_celene_aurellan",
@@ -879,7 +976,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "elara_i_aurellan__parent_of__princess_roselle_aurellan_daughter_of_elara_i",
@@ -888,7 +986,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "elara_i_aurellan__parent_of__sabine_ii_aurellan",
@@ -897,7 +996,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "elara_i_aurellan__sibling_of__princess_sabine_aurellan_daughter_of_yselle",
@@ -906,7 +1006,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "elara_i_aurellan__spouse_or_partner_of__lucien_montreve",
@@ -915,7 +1016,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "elara_ii_aurellan__ally_of__yselle_valemar_current",
@@ -924,7 +1026,8 @@
     "relationship_type": "ally_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "elara_ii_aurellan__child_of__lucien_valemar",
@@ -933,7 +1036,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "elara_ii_aurellan__child_of__mirelle_iii_aurellan",
@@ -942,7 +1046,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "elara_ii_aurellan__parent_of__lost_princess_aurellan",
@@ -951,7 +1056,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "elara_ii_aurellan__parent_of__unborn_princess_aurellan",
@@ -960,7 +1066,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "elara_ii_aurellan__spouse_or_partner_of__marius_donnicton",
@@ -969,7 +1076,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "elara_serrant__rival_of__sabine_mirec",
@@ -978,7 +1086,8 @@
     "relationship_type": "rival_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "elspeth_greycliff__child_of__orren_greycliff",
@@ -987,7 +1096,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "elspeth_greycliff__child_of__tamsin_greycliff",
@@ -996,7 +1106,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "elspeth_greycliff__sibling_of__harl_greycliff",
@@ -1005,7 +1116,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "elswyth_merrowyn__child_of__sabine_i_merrowyn",
@@ -1014,7 +1126,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "elswyth_merrowyn__child_of__tomas_halwen",
@@ -1023,7 +1136,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "elswyth_merrowyn__parent_of__katarin_merrowyn",
@@ -1032,7 +1146,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "elswyth_merrowyn__parent_of__princess_roselle_merrowyn",
@@ -1041,7 +1156,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "elswyth_merrowyn__sibling_of__prince_odran_merrowyn",
@@ -1050,7 +1166,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "elswyth_merrowyn__sibling_of__princess_mirelle_merrowyn",
@@ -1059,7 +1176,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "elswyth_merrowyn__spouse_or_partner_of__marek_vargan",
@@ -1068,7 +1186,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "erena_dragovic__betrothed_to__branik_roemach",
@@ -1077,7 +1196,8 @@
     "relationship_type": "betrothed_to",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "erena_dragovic__child_of__milena_dragovic",
@@ -1086,7 +1206,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "erena_dragovic__child_of__radek_dragovic",
@@ -1095,7 +1216,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "erena_dragovic__sibling_of__bogdan_dragovic",
@@ -1104,7 +1226,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "erena_dragovic__sibling_of__katya_dragovic",
@@ -1113,7 +1236,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "erena_volny__parent_of__bogdan_volny",
@@ -1122,7 +1246,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "erena_volny__parent_of__mirek_volny",
@@ -1131,7 +1256,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "erena_volny__parent_of__zora_volny",
@@ -1140,7 +1266,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "erena_volny__spouse_or_partner_of__danyr_volny",
@@ -1149,7 +1276,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "eryne_telassar__child_of__leandros_telassar",
@@ -1158,7 +1286,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "eryne_telassar__child_of__melaina_telassar",
@@ -1167,7 +1296,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "gavren_serrant__parent_of__prince_tomas_aurellan",
@@ -1176,7 +1306,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "gavren_serrant__parent_of__princess_elara_aurellan_daughter_of_aurella_i",
@@ -1185,7 +1316,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "gavren_serrant__parent_of__roslin_i_aurellan",
@@ -1194,7 +1326,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "gavren_serrant__spouse_or_partner_of__aurella_i_aurellan",
@@ -1203,7 +1336,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "gavren_vargan__parent_of__princess_sabine_aurellan_daughter_of_mirelle_ii",
@@ -1212,7 +1346,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "gavren_vargan__parent_of__roselle_ii_aurellan",
@@ -1221,7 +1356,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "gavren_vargan__spouse_or_partner_of__mirelle_ii_aurellan",
@@ -1230,7 +1366,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "gregor_roemach__parent_of__branik_roemach",
@@ -1239,7 +1376,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "gregor_roemach__parent_of__helka_roemach",
@@ -1248,7 +1386,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "gregor_roemach__spouse_or_partner_of__marda_roemach",
@@ -1257,7 +1396,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "hadrien_montreve__spouse_or_partner_of__roselle_montreve_regent",
@@ -1266,7 +1406,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "harl_greycliff__child_of__orren_greycliff",
@@ -1275,7 +1416,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "harl_greycliff__child_of__tamsin_greycliff",
@@ -1284,7 +1426,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "harl_greycliff__sibling_of__elspeth_greycliff",
@@ -1293,7 +1436,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "helka_roemach__child_of__gregor_roemach",
@@ -1302,7 +1446,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "helka_roemach__child_of__marda_roemach",
@@ -1311,7 +1456,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "helka_roemach__sibling_of__branik_roemach",
@@ -1320,7 +1466,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "hendrik_varkel__parent_of__anja_varkel",
@@ -1329,7 +1476,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "hendrik_varkel__parent_of__othmar_varkel",
@@ -1338,7 +1486,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "hendrik_varkel__spouse_or_partner_of__vessa_thurn",
@@ -1347,7 +1496,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "high_consort_nasir_belasir__parent_of__crown_princess_ashara_ashurim",
@@ -1356,7 +1506,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "high_consort_nasir_belasir__parent_of__prince_kasef_ashurim",
@@ -1365,7 +1516,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "high_consort_nasir_belasir__parent_of__princess_helin_ashurim",
@@ -1374,7 +1526,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "high_consort_nasir_belasir__spouse_or_partner_of__samira_ashurim",
@@ -1383,7 +1536,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "iason_nemeon__child_of__cassian_nemeon",
@@ -1392,7 +1546,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "iason_nemeon__child_of__thaleia_argyros",
@@ -1401,7 +1556,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "iason_nemeon__sibling_of__dione_nemeon",
@@ -1410,7 +1566,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "iason_nemeon__sibling_of__phokas_nemeon",
@@ -1419,7 +1576,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "ilse_drakkar__child_of__othmar_drakkar",
@@ -1428,7 +1586,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "ilse_drakkar__child_of__princess_petra_drakkar",
@@ -1437,7 +1596,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "ilse_drakkar__sibling_of__torvin_drakkar",
@@ -1446,7 +1606,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "ilse_drakkar__sibling_of__varek_drakkar",
@@ -1455,7 +1616,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "jory_marren__child_of__corin_marren",
@@ -1464,7 +1626,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "jory_marren__child_of__nessa_marren",
@@ -1473,7 +1636,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "jory_marren__sibling_of__bria_marren",
@@ -1482,7 +1646,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "jory_marren__sibling_of__mael_marren",
@@ -1491,7 +1656,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "kasimir_mirekov__parent_of__bogna_mirekov",
@@ -1500,7 +1666,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "kasimir_mirekov__parent_of__danyr_mirekov",
@@ -1509,7 +1676,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "kasimir_mirekov__parent_of__yarek_mirekov",
@@ -1518,7 +1686,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "kasimir_mirekov__spouse_or_partner_of__zora_mirekov",
@@ -1527,7 +1696,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "katarin_merrowyn__child_of__elswyth_merrowyn",
@@ -1536,7 +1706,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "katarin_merrowyn__child_of__marek_vargan",
@@ -1545,7 +1716,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "katarin_merrowyn__parent_of__mirelle_i_merrowyn",
@@ -1554,7 +1726,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "katarin_merrowyn__parent_of__princess_sabine_merrowyn",
@@ -1563,7 +1736,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "katarin_merrowyn__sibling_of__princess_roselle_merrowyn",
@@ -1572,7 +1746,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "katarin_merrowyn__spouse_or_partner_of__lucien_daurien",
@@ -1581,7 +1756,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "katya_dragovic__child_of__milena_dragovic",
@@ -1590,7 +1766,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "katya_dragovic__child_of__radek_dragovic",
@@ -1599,7 +1776,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "katya_dragovic__sibling_of__bogdan_dragovic",
@@ -1608,7 +1786,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "katya_dragovic__sibling_of__erena_dragovic",
@@ -1617,7 +1796,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "leandros_telassar__parent_of__eryne_telassar",
@@ -1626,7 +1806,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "leandros_telassar__spouse_or_partner_of__melaina_telassar",
@@ -1635,7 +1816,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "lost_princess_aurellan__betrothed_to__renald_valemar",
@@ -1644,7 +1826,8 @@
     "relationship_type": "betrothed_to",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "lost_princess_aurellan__child_of__elara_ii_aurellan",
@@ -1653,7 +1836,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "lost_princess_aurellan__child_of__marius_donnicton",
@@ -1662,7 +1846,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "lost_princess_aurellan__sibling_of__unborn_princess_aurellan",
@@ -1671,7 +1856,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "lucien_daurien__parent_of__mirelle_i_merrowyn",
@@ -1680,7 +1866,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "lucien_daurien__parent_of__princess_sabine_merrowyn",
@@ -1689,7 +1876,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "lucien_daurien__spouse_or_partner_of__katarin_merrowyn",
@@ -1698,7 +1886,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "lucien_montreve__parent_of__princess_celene_aurellan",
@@ -1707,7 +1896,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "lucien_montreve__parent_of__princess_roselle_aurellan_daughter_of_elara_i",
@@ -1716,7 +1906,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "lucien_montreve__parent_of__sabine_ii_aurellan",
@@ -1725,7 +1916,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "lucien_montreve__spouse_or_partner_of__elara_i_aurellan",
@@ -1734,7 +1926,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "lucien_valemar__parent_of__elara_ii_aurellan",
@@ -1743,7 +1936,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "lucien_valemar__spouse_or_partner_of__mirelle_iii_aurellan",
@@ -1752,7 +1946,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "lysandra_korvassi__parent_of__calista_korvassi",
@@ -1761,7 +1956,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "lysandra_korvassi__parent_of__nikoros_korvassi",
@@ -1770,7 +1966,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "lysandra_korvassi__spouse_or_partner_of__damis_maraxis",
@@ -1779,7 +1976,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "maedra_ashmantle__spouse_or_partner_of__corin_ashmantle_historical",
@@ -1788,7 +1986,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "mael_marren__child_of__corin_marren",
@@ -1797,7 +1996,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "mael_marren__child_of__nessa_marren",
@@ -1806,7 +2006,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "mael_marren__sibling_of__bria_marren",
@@ -1815,7 +2016,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "mael_marren__sibling_of__jory_marren",
@@ -1824,7 +2026,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "maerelle_valemar__ally_of__aurella_i_aurellan",
@@ -1833,7 +2036,8 @@
     "relationship_type": "ally_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "maerelle_valemar__rival_of__osyra_mirec",
@@ -1842,7 +2046,8 @@
     "relationship_type": "rival_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "marda_roemach__parent_of__branik_roemach",
@@ -1851,7 +2056,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "marda_roemach__parent_of__helka_roemach",
@@ -1860,7 +2066,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "marda_roemach__spouse_or_partner_of__gregor_roemach",
@@ -1869,7 +2076,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "marek_valemar__parent_of__elara_i_aurellan",
@@ -1878,7 +2086,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "marek_valemar__parent_of__princess_sabine_aurellan_daughter_of_yselle",
@@ -1887,7 +2096,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "marek_valemar__spouse_or_partner_of__yselle_aurellan",
@@ -1896,7 +2106,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "marek_vargan__parent_of__katarin_merrowyn",
@@ -1905,7 +2116,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "marek_vargan__parent_of__princess_roselle_merrowyn",
@@ -1914,7 +2126,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "marek_vargan__spouse_or_partner_of__elswyth_merrowyn",
@@ -1923,7 +2136,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "marius_donnicton__parent_of__lost_princess_aurellan",
@@ -1932,7 +2146,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "marius_donnicton__parent_of__unborn_princess_aurellan",
@@ -1941,7 +2156,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "marius_donnicton__spouse_or_partner_of__elara_ii_aurellan",
@@ -1950,7 +2166,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "melaina_telassar__parent_of__eryne_telassar",
@@ -1959,7 +2176,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "melaina_telassar__spouse_or_partner_of__leandros_telassar",
@@ -1968,7 +2186,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "merek_kazrak__child_of__renka_balkspar",
@@ -1977,7 +2196,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "merek_kazrak__child_of__stavos_kazrak",
@@ -1986,7 +2206,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "merek_kazrak__sibling_of__doreth_kazrak",
@@ -1995,7 +2216,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "milena_dragovic__parent_of__bogdan_dragovic",
@@ -2004,7 +2226,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "milena_dragovic__parent_of__erena_dragovic",
@@ -2013,7 +2236,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "milena_dragovic__parent_of__katya_dragovic",
@@ -2022,7 +2246,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "milena_dragovic__spouse_or_partner_of__radek_dragovic",
@@ -2031,7 +2256,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "mira_dunin__child_of__mirek_dunin",
@@ -2040,7 +2266,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "mira_dunin__child_of__veska_dunin",
@@ -2049,7 +2276,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "mira_dunin__sibling_of__darya_dunin",
@@ -2058,7 +2286,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "mira_dunin__sibling_of__stivan_dunin",
@@ -2067,7 +2296,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "mirek_dunin__parent_of__darya_dunin",
@@ -2076,7 +2306,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "mirek_dunin__parent_of__mira_dunin",
@@ -2085,7 +2316,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "mirek_dunin__parent_of__stivan_dunin",
@@ -2094,7 +2326,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "mirek_dunin__spouse_or_partner_of__veska_dunin",
@@ -2103,7 +2336,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "mirek_volny__child_of__danyr_volny",
@@ -2112,7 +2346,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "mirek_volny__child_of__erena_volny",
@@ -2121,7 +2356,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "mirek_volny__sibling_of__bogdan_volny",
@@ -2130,7 +2366,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "mirek_volny__sibling_of__zora_volny",
@@ -2139,7 +2376,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "mirelle_i_merrowyn__child_of__katarin_merrowyn",
@@ -2148,7 +2386,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "mirelle_i_merrowyn__child_of__lucien_daurien",
@@ -2157,7 +2396,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "mirelle_i_merrowyn__sibling_of__princess_sabine_merrowyn",
@@ -2166,7 +2406,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "mirelle_i_merrowyn__spouse_or_partner_of__roland_caldris",
@@ -2175,7 +2416,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "mirelle_ii_aurellan__child_of__aurella_ii_aurellan",
@@ -2184,7 +2426,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "mirelle_ii_aurellan__child_of__roland_mirec",
@@ -2193,7 +2436,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "mirelle_ii_aurellan__parent_of__princess_sabine_aurellan_daughter_of_mirelle_ii",
@@ -2202,7 +2446,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "mirelle_ii_aurellan__parent_of__roselle_ii_aurellan",
@@ -2211,7 +2456,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "mirelle_ii_aurellan__sibling_of__prince_gavren_aurellan",
@@ -2220,7 +2466,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "mirelle_ii_aurellan__sibling_of__princess_elswyth_aurellan",
@@ -2229,7 +2476,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "mirelle_ii_aurellan__spouse_or_partner_of__gavren_vargan",
@@ -2238,7 +2486,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "mirelle_iii_aurellan__child_of__roselle_ii_aurellan",
@@ -2247,7 +2496,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "mirelle_iii_aurellan__child_of__tomas_halwen_ii",
@@ -2256,7 +2506,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "mirelle_iii_aurellan__parent_of__elara_ii_aurellan",
@@ -2265,7 +2516,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "mirelle_iii_aurellan__sibling_of__princess_elara_aurellan_sister_of_mirelle_iii",
@@ -2274,7 +2526,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "mirelle_iii_aurellan__spouse_or_partner_of__lucien_valemar",
@@ -2283,7 +2536,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "nessa_marren__parent_of__bria_marren",
@@ -2292,7 +2546,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "nessa_marren__parent_of__jory_marren",
@@ -2301,7 +2556,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "nessa_marren__parent_of__mael_marren",
@@ -2310,7 +2566,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "nessa_marren__spouse_or_partner_of__corin_marren",
@@ -2319,7 +2576,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "nikoros_korvassi__child_of__damis_maraxis",
@@ -2328,7 +2586,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "nikoros_korvassi__child_of__lysandra_korvassi",
@@ -2337,7 +2596,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "nikoros_korvassi__sibling_of__calista_korvassi",
@@ -2346,7 +2606,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "norra_salt__child_of__bram_salt",
@@ -2355,7 +2616,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "norra_salt__child_of__edda_salt",
@@ -2364,7 +2626,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "norra_salt__sibling_of__rowan_salt",
@@ -2373,7 +2636,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "odran_halwen__parent_of__prince_roland_aurellan",
@@ -2382,7 +2646,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "odran_halwen__parent_of__princess_mirelle_aurellan_daughter_of_ameline",
@@ -2391,7 +2656,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "odran_halwen__parent_of__yselle_aurellan",
@@ -2400,7 +2666,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "odran_halwen__spouse_or_partner_of__ameline_aurellan",
@@ -2409,7 +2676,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "orren_greycliff__parent_of__elspeth_greycliff",
@@ -2418,7 +2686,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "orren_greycliff__parent_of__harl_greycliff",
@@ -2427,7 +2696,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "orren_greycliff__spouse_or_partner_of__tamsin_greycliff",
@@ -2436,7 +2706,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "osyra_mirec__rival_of__aurella_i_aurellan",
@@ -2445,7 +2716,8 @@
     "relationship_type": "rival_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "osyra_mirec__rival_of__maerelle_valemar",
@@ -2454,7 +2726,8 @@
     "relationship_type": "rival_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "othmar_drakkar__parent_of__ilse_drakkar",
@@ -2463,7 +2736,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "othmar_drakkar__parent_of__torvin_drakkar",
@@ -2472,7 +2746,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "othmar_drakkar__parent_of__varek_drakkar",
@@ -2481,7 +2756,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "othmar_drakkar__spouse_or_partner_of__princess_petra_drakkar",
@@ -2490,7 +2766,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "othmar_varkel__child_of__hendrik_varkel",
@@ -2499,7 +2776,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "othmar_varkel__child_of__vessa_thurn",
@@ -2508,7 +2786,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "othmar_varkel__sibling_of__anja_varkel",
@@ -2517,7 +2796,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "phokas_nemeon__child_of__cassian_nemeon",
@@ -2526,7 +2806,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "phokas_nemeon__child_of__thaleia_argyros",
@@ -2535,7 +2816,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "phokas_nemeon__sibling_of__dione_nemeon",
@@ -2544,7 +2826,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "phokas_nemeon__sibling_of__iason_nemeon",
@@ -2553,7 +2836,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "prince_gavren_aurellan__child_of__aurella_ii_aurellan",
@@ -2562,7 +2846,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "prince_gavren_aurellan__child_of__roland_mirec",
@@ -2571,7 +2856,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "prince_gavren_aurellan__sibling_of__mirelle_ii_aurellan",
@@ -2580,7 +2866,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "prince_gavren_aurellan__sibling_of__princess_elswyth_aurellan",
@@ -2589,7 +2876,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "prince_kasef_ashurim__child_of__high_consort_nasir_belasir",
@@ -2598,7 +2886,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "prince_kasef_ashurim__child_of__samira_ashurim",
@@ -2607,7 +2896,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "prince_kasef_ashurim__sibling_of__crown_princess_ashara_ashurim",
@@ -2616,7 +2906,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "prince_kasef_ashurim__sibling_of__princess_helin_ashurim",
@@ -2625,7 +2916,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "prince_odran_merrowyn__child_of__sabine_i_merrowyn",
@@ -2634,7 +2926,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "prince_odran_merrowyn__child_of__tomas_halwen",
@@ -2643,7 +2936,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "prince_odran_merrowyn__sibling_of__elswyth_merrowyn",
@@ -2652,7 +2946,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "prince_odran_merrowyn__sibling_of__princess_mirelle_merrowyn",
@@ -2661,7 +2956,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "prince_roland_aurellan__child_of__ameline_aurellan",
@@ -2670,7 +2966,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "prince_roland_aurellan__child_of__odran_halwen",
@@ -2679,7 +2976,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "prince_roland_aurellan__sibling_of__princess_mirelle_aurellan_daughter_of_ameline",
@@ -2688,7 +2986,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "prince_roland_aurellan__sibling_of__yselle_aurellan",
@@ -2697,7 +2996,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "prince_tomas_aurellan__child_of__aurella_i_aurellan",
@@ -2706,7 +3006,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "prince_tomas_aurellan__child_of__gavren_serrant",
@@ -2715,7 +3016,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "prince_tomas_aurellan__sibling_of__princess_elara_aurellan_daughter_of_aurella_i",
@@ -2724,7 +3026,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "prince_tomas_aurellan__sibling_of__roslin_i_aurellan",
@@ -2733,7 +3036,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_ameline_aurellan__child_of__sabine_ii_aurellan",
@@ -2742,7 +3046,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_ameline_aurellan__child_of__tomas_daurien",
@@ -2751,7 +3056,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_ameline_aurellan__sibling_of__aurella_ii_aurellan",
@@ -2760,7 +3066,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_celene_aurellan__child_of__elara_i_aurellan",
@@ -2769,7 +3076,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_celene_aurellan__child_of__lucien_montreve",
@@ -2778,7 +3086,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_celene_aurellan__sibling_of__princess_roselle_aurellan_daughter_of_elara_i",
@@ -2787,7 +3096,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_celene_aurellan__sibling_of__sabine_ii_aurellan",
@@ -2796,7 +3106,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_elara_aurellan_daughter_of_aurella_i__child_of__aurella_i_aurellan",
@@ -2805,7 +3116,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_elara_aurellan_daughter_of_aurella_i__child_of__gavren_serrant",
@@ -2814,7 +3126,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_elara_aurellan_daughter_of_aurella_i__sibling_of__prince_tomas_aurellan",
@@ -2823,7 +3136,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_elara_aurellan_daughter_of_aurella_i__sibling_of__roslin_i_aurellan",
@@ -2832,7 +3146,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_elara_aurellan_sister_of_mirelle_iii__child_of__roselle_ii_aurellan",
@@ -2841,7 +3156,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_elara_aurellan_sister_of_mirelle_iii__child_of__tomas_halwen_ii",
@@ -2850,7 +3166,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_elara_aurellan_sister_of_mirelle_iii__sibling_of__mirelle_iii_aurellan",
@@ -2859,7 +3176,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_elswyth_aurellan__child_of__aurella_ii_aurellan",
@@ -2868,7 +3186,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_elswyth_aurellan__child_of__roland_mirec",
@@ -2877,7 +3196,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_elswyth_aurellan__sibling_of__mirelle_ii_aurellan",
@@ -2886,7 +3206,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_elswyth_aurellan__sibling_of__prince_gavren_aurellan",
@@ -2895,7 +3216,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_elswyth_merrowyn_early__child_of__alisanne_i_merrowyn",
@@ -2904,7 +3226,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_elswyth_merrowyn_early__child_of__edric_merrowyn",
@@ -2913,7 +3236,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_elswyth_merrowyn_early__sibling_of__sabine_i_merrowyn",
@@ -2922,7 +3246,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_helin_ashurim__child_of__high_consort_nasir_belasir",
@@ -2931,7 +3256,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_helin_ashurim__child_of__samira_ashurim",
@@ -2940,7 +3266,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_helin_ashurim__sibling_of__crown_princess_ashara_ashurim",
@@ -2949,7 +3276,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_helin_ashurim__sibling_of__prince_kasef_ashurim",
@@ -2958,7 +3286,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_mirelle_aurellan_daughter_of_ameline__child_of__ameline_aurellan",
@@ -2967,7 +3296,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_mirelle_aurellan_daughter_of_ameline__child_of__odran_halwen",
@@ -2976,7 +3306,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_mirelle_aurellan_daughter_of_ameline__sibling_of__prince_roland_aurellan",
@@ -2985,7 +3316,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_mirelle_aurellan_daughter_of_ameline__sibling_of__yselle_aurellan",
@@ -2994,7 +3326,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_mirelle_merrowyn__child_of__sabine_i_merrowyn",
@@ -3003,7 +3336,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_mirelle_merrowyn__child_of__tomas_halwen",
@@ -3012,7 +3346,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_mirelle_merrowyn__sibling_of__elswyth_merrowyn",
@@ -3021,7 +3356,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_mirelle_merrowyn__sibling_of__prince_odran_merrowyn",
@@ -3030,7 +3366,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_petra_drakkar__parent_of__ilse_drakkar",
@@ -3039,7 +3376,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_petra_drakkar__parent_of__torvin_drakkar",
@@ -3048,7 +3386,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_petra_drakkar__parent_of__varek_drakkar",
@@ -3057,7 +3396,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_petra_drakkar__spouse_or_partner_of__othmar_drakkar",
@@ -3066,7 +3406,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_roselle_aurellan_daughter_of_elara_i__child_of__elara_i_aurellan",
@@ -3075,7 +3416,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_roselle_aurellan_daughter_of_elara_i__child_of__lucien_montreve",
@@ -3084,7 +3426,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_roselle_aurellan_daughter_of_elara_i__sibling_of__princess_celene_aurellan",
@@ -3093,7 +3436,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_roselle_aurellan_daughter_of_elara_i__sibling_of__sabine_ii_aurellan",
@@ -3102,7 +3446,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_roselle_merrowyn__child_of__elswyth_merrowyn",
@@ -3111,7 +3456,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_roselle_merrowyn__child_of__marek_vargan",
@@ -3120,7 +3466,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_roselle_merrowyn__sibling_of__katarin_merrowyn",
@@ -3129,7 +3476,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_sabine_aurellan_daughter_of_mirelle_ii__child_of__gavren_vargan",
@@ -3138,7 +3486,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_sabine_aurellan_daughter_of_mirelle_ii__child_of__mirelle_ii_aurellan",
@@ -3147,7 +3496,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_sabine_aurellan_daughter_of_mirelle_ii__sibling_of__roselle_ii_aurellan",
@@ -3156,7 +3506,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_sabine_aurellan_daughter_of_yselle__child_of__marek_valemar",
@@ -3165,7 +3516,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_sabine_aurellan_daughter_of_yselle__child_of__yselle_aurellan",
@@ -3174,7 +3526,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_sabine_aurellan_daughter_of_yselle__sibling_of__elara_i_aurellan",
@@ -3183,7 +3536,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_sabine_merrowyn__child_of__katarin_merrowyn",
@@ -3192,7 +3546,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_sabine_merrowyn__child_of__lucien_daurien",
@@ -3201,7 +3556,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_sabine_merrowyn__sibling_of__mirelle_i_merrowyn",
@@ -3210,7 +3566,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_yselle_aurellan__child_of__alaric_caldris",
@@ -3219,7 +3576,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_yselle_aurellan__child_of__roslin_i_aurellan",
@@ -3228,7 +3586,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "princess_yselle_aurellan__sibling_of__ameline_aurellan",
@@ -3237,7 +3596,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "radek_dragovic__parent_of__bogdan_dragovic",
@@ -3246,7 +3606,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "radek_dragovic__parent_of__erena_dragovic",
@@ -3255,7 +3616,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "radek_dragovic__parent_of__katya_dragovic",
@@ -3264,7 +3626,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "radek_dragovic__spouse_or_partner_of__milena_dragovic",
@@ -3273,7 +3636,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "renald_valemar__betrothed_to__lost_princess_aurellan",
@@ -3282,7 +3646,8 @@
     "relationship_type": "betrothed_to",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "renald_valemar__sibling_of__celene_valemar",
@@ -3291,7 +3656,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "renka_balkspar__parent_of__doreth_kazrak",
@@ -3300,7 +3666,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "renka_balkspar__parent_of__merek_kazrak",
@@ -3309,7 +3676,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "renka_balkspar__spouse_or_partner_of__stavos_kazrak",
@@ -3318,7 +3686,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "roland_caldris__spouse_or_partner_of__mirelle_i_merrowyn",
@@ -3327,7 +3696,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "roland_mirec__parent_of__mirelle_ii_aurellan",
@@ -3336,7 +3706,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "roland_mirec__parent_of__prince_gavren_aurellan",
@@ -3345,7 +3716,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "roland_mirec__parent_of__princess_elswyth_aurellan",
@@ -3354,7 +3726,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "roland_mirec__spouse_or_partner_of__aurella_ii_aurellan",
@@ -3363,7 +3736,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "roselle_ii_aurellan__child_of__gavren_vargan",
@@ -3372,7 +3746,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "roselle_ii_aurellan__child_of__mirelle_ii_aurellan",
@@ -3381,7 +3756,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "roselle_ii_aurellan__parent_of__mirelle_iii_aurellan",
@@ -3390,7 +3766,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "roselle_ii_aurellan__parent_of__princess_elara_aurellan_sister_of_mirelle_iii",
@@ -3399,7 +3776,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "roselle_ii_aurellan__sibling_of__princess_sabine_aurellan_daughter_of_mirelle_ii",
@@ -3408,7 +3786,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "roselle_ii_aurellan__spouse_or_partner_of__tomas_halwen_ii",
@@ -3417,7 +3796,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "roselle_montreve_regent__spouse_or_partner_of__hadrien_montreve",
@@ -3426,7 +3806,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "roslin_i_aurellan__child_of__aurella_i_aurellan",
@@ -3435,7 +3816,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "roslin_i_aurellan__child_of__gavren_serrant",
@@ -3444,7 +3826,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "roslin_i_aurellan__parent_of__ameline_aurellan",
@@ -3453,7 +3836,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "roslin_i_aurellan__parent_of__princess_yselle_aurellan",
@@ -3462,7 +3846,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "roslin_i_aurellan__sibling_of__prince_tomas_aurellan",
@@ -3471,7 +3856,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "roslin_i_aurellan__sibling_of__princess_elara_aurellan_daughter_of_aurella_i",
@@ -3480,7 +3866,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "roslin_i_aurellan__spouse_or_partner_of__alaric_caldris",
@@ -3489,7 +3876,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "rowan_salt__child_of__bram_salt",
@@ -3498,7 +3886,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "rowan_salt__child_of__edda_salt",
@@ -3507,7 +3896,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "rowan_salt__sibling_of__norra_salt",
@@ -3516,7 +3906,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "sabine_i_merrowyn__child_of__alisanne_i_merrowyn",
@@ -3525,7 +3916,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "sabine_i_merrowyn__child_of__edric_merrowyn",
@@ -3534,7 +3926,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "sabine_i_merrowyn__parent_of__elswyth_merrowyn",
@@ -3543,7 +3936,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "sabine_i_merrowyn__parent_of__prince_odran_merrowyn",
@@ -3552,7 +3946,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "sabine_i_merrowyn__parent_of__princess_mirelle_merrowyn",
@@ -3561,7 +3956,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "sabine_i_merrowyn__sibling_of__princess_elswyth_merrowyn_early",
@@ -3570,7 +3966,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "sabine_i_merrowyn__spouse_or_partner_of__tomas_halwen",
@@ -3579,7 +3976,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "sabine_ii_aurellan__child_of__elara_i_aurellan",
@@ -3588,7 +3986,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "sabine_ii_aurellan__child_of__lucien_montreve",
@@ -3597,7 +3996,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "sabine_ii_aurellan__parent_of__aurella_ii_aurellan",
@@ -3606,7 +4006,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "sabine_ii_aurellan__parent_of__princess_ameline_aurellan",
@@ -3615,7 +4016,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "sabine_ii_aurellan__sibling_of__princess_celene_aurellan",
@@ -3624,7 +4026,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "sabine_ii_aurellan__sibling_of__princess_roselle_aurellan_daughter_of_elara_i",
@@ -3633,7 +4036,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "sabine_ii_aurellan__spouse_or_partner_of__tomas_daurien",
@@ -3642,7 +4046,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "sabine_mirec__rival_of__elara_serrant",
@@ -3651,7 +4056,8 @@
     "relationship_type": "rival_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "sabine_mirec__rival_of__yselle_valemar_current",
@@ -3660,7 +4066,8 @@
     "relationship_type": "rival_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "samira_ashurim__parent_of__crown_princess_ashara_ashurim",
@@ -3669,7 +4076,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "samira_ashurim__parent_of__prince_kasef_ashurim",
@@ -3678,7 +4086,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "samira_ashurim__parent_of__princess_helin_ashurim",
@@ -3687,7 +4096,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "samira_ashurim__spouse_or_partner_of__high_consort_nasir_belasir",
@@ -3696,7 +4106,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "stavos_kazrak__parent_of__doreth_kazrak",
@@ -3705,7 +4116,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "stavos_kazrak__parent_of__merek_kazrak",
@@ -3714,7 +4126,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "stavos_kazrak__spouse_or_partner_of__renka_balkspar",
@@ -3723,7 +4136,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "stivan_dunin__child_of__mirek_dunin",
@@ -3732,7 +4146,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "stivan_dunin__child_of__veska_dunin",
@@ -3741,7 +4156,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "stivan_dunin__sibling_of__darya_dunin",
@@ -3750,7 +4166,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "stivan_dunin__sibling_of__mira_dunin",
@@ -3759,7 +4176,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "tamsin_greycliff__parent_of__elspeth_greycliff",
@@ -3768,7 +4186,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "tamsin_greycliff__parent_of__harl_greycliff",
@@ -3777,7 +4196,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "tamsin_greycliff__spouse_or_partner_of__orren_greycliff",
@@ -3786,7 +4206,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "thaleia_argyros__parent_of__dione_nemeon",
@@ -3795,7 +4216,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "thaleia_argyros__parent_of__iason_nemeon",
@@ -3804,7 +4226,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "thaleia_argyros__parent_of__phokas_nemeon",
@@ -3813,7 +4236,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "thaleia_argyros__spouse_or_partner_of__cassian_nemeon",
@@ -3822,7 +4246,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "tomas_daurien__parent_of__aurella_ii_aurellan",
@@ -3831,7 +4256,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "tomas_daurien__parent_of__princess_ameline_aurellan",
@@ -3840,7 +4266,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "tomas_daurien__spouse_or_partner_of__sabine_ii_aurellan",
@@ -3849,7 +4276,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "tomas_halwen__parent_of__elswyth_merrowyn",
@@ -3858,7 +4286,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "tomas_halwen__parent_of__prince_odran_merrowyn",
@@ -3867,7 +4296,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "tomas_halwen__parent_of__princess_mirelle_merrowyn",
@@ -3876,7 +4306,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "tomas_halwen__spouse_or_partner_of__sabine_i_merrowyn",
@@ -3885,7 +4316,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "tomas_halwen_ii__parent_of__mirelle_iii_aurellan",
@@ -3894,7 +4326,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "tomas_halwen_ii__parent_of__princess_elara_aurellan_sister_of_mirelle_iii",
@@ -3903,7 +4336,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "tomas_halwen_ii__spouse_or_partner_of__roselle_ii_aurellan",
@@ -3912,7 +4346,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "torvin_drakkar__child_of__othmar_drakkar",
@@ -3921,7 +4356,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "torvin_drakkar__child_of__princess_petra_drakkar",
@@ -3930,7 +4366,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "torvin_drakkar__sibling_of__ilse_drakkar",
@@ -3939,7 +4376,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "torvin_drakkar__sibling_of__varek_drakkar",
@@ -3948,7 +4386,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "unborn_princess_aurellan__child_of__elara_ii_aurellan",
@@ -3957,7 +4396,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "unborn_princess_aurellan__child_of__marius_donnicton",
@@ -3966,7 +4406,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "unborn_princess_aurellan__sibling_of__lost_princess_aurellan",
@@ -3975,7 +4416,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "varek_drakkar__child_of__othmar_drakkar",
@@ -3984,7 +4426,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "varek_drakkar__child_of__princess_petra_drakkar",
@@ -3993,7 +4436,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "varek_drakkar__sibling_of__ilse_drakkar",
@@ -4002,7 +4446,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "varek_drakkar__sibling_of__torvin_drakkar",
@@ -4011,7 +4456,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "veska_dunin__parent_of__darya_dunin",
@@ -4020,7 +4466,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "veska_dunin__parent_of__mira_dunin",
@@ -4029,7 +4476,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "veska_dunin__parent_of__stivan_dunin",
@@ -4038,7 +4486,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "veska_dunin__spouse_or_partner_of__mirek_dunin",
@@ -4047,7 +4496,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "vessa_thurn__parent_of__anja_varkel",
@@ -4056,7 +4506,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "vessa_thurn__parent_of__othmar_varkel",
@@ -4065,7 +4516,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "vessa_thurn__spouse_or_partner_of__hendrik_varkel",
@@ -4074,7 +4526,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "yarek_mirekov__child_of__kasimir_mirekov",
@@ -4083,7 +4536,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "yarek_mirekov__child_of__zora_mirekov",
@@ -4092,7 +4546,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "yarek_mirekov__sibling_of__bogna_mirekov",
@@ -4101,7 +4556,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "yarek_mirekov__sibling_of__danyr_mirekov",
@@ -4110,7 +4566,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "yselle_aurellan__child_of__ameline_aurellan",
@@ -4119,7 +4576,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "yselle_aurellan__child_of__odran_halwen",
@@ -4128,7 +4586,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "yselle_aurellan__parent_of__elara_i_aurellan",
@@ -4137,7 +4596,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "yselle_aurellan__parent_of__princess_sabine_aurellan_daughter_of_yselle",
@@ -4146,7 +4606,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "yselle_aurellan__sibling_of__prince_roland_aurellan",
@@ -4155,7 +4616,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "yselle_aurellan__sibling_of__princess_mirelle_aurellan_daughter_of_ameline",
@@ -4164,7 +4626,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "yselle_aurellan__spouse_or_partner_of__marek_valemar",
@@ -4173,7 +4636,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "yselle_valemar_current__ally_of__elara_ii_aurellan",
@@ -4182,7 +4646,8 @@
     "relationship_type": "ally_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "yselle_valemar_current__rival_of__sabine_mirec",
@@ -4191,7 +4656,8 @@
     "relationship_type": "rival_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "zora_mirekov__parent_of__bogna_mirekov",
@@ -4200,7 +4666,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "zora_mirekov__parent_of__danyr_mirekov",
@@ -4209,7 +4676,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "zora_mirekov__parent_of__yarek_mirekov",
@@ -4218,7 +4686,8 @@
     "relationship_type": "parent_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "zora_mirekov__spouse_or_partner_of__kasimir_mirekov",
@@ -4227,7 +4696,8 @@
     "relationship_type": "spouse_or_partner_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "zora_volny__child_of__danyr_volny",
@@ -4236,7 +4706,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "zora_volny__child_of__erena_volny",
@@ -4245,7 +4716,8 @@
     "relationship_type": "child_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "zora_volny__sibling_of__bogdan_volny",
@@ -4254,7 +4726,8 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   },
   {
     "relationship_id": "zora_volny__sibling_of__mirek_volny",
@@ -4263,6 +4736,7 @@
     "relationship_type": "sibling_of",
     "player_facing": true,
     "certainty": "confirmed",
-    "notes": ""
+    "notes": "",
+    "last_updated": "2026-05-11"
   }
 ]

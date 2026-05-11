@@ -48,5 +48,5 @@
     "notes": "string",
     "dm_only_notes": "string"
   },
-  "notes": "Player-facing files omit dm_only_summary and spoiler_tags. The player app only loads player-facing JSON files."
+  "notes": "Player-facing files omit dm_only_summary and spoiler_tags. The player app only loads player-facing JSON files. Updated 2026-05-11: added year_born, year_died, and date_confidence fields."
 }
