@@ -9,5 +9,17 @@
     "dm_only_change": true,
     "canon_conflict_created": false,
     "notes": "Older references naming the missing princess Roslin are resolved player-facing as the Lost Princess Aurellan; current DM canon is preserved only in characters_dm.json."
+  },
+  {
+    "date": "2026-05-11",
+    "character_ids_affected": [
+      "all player-facing records",
+      "venette_tylora"
+    ],
+    "summary": "Added year_born/year_died/date_confidence fields, removed player-character records from player-facing search data, removed self-relationship references, and fixed mobile family record display so spouses/partners are not shown as themselves.",
+    "player_facing_change": true,
+    "dm_only_change": true,
+    "canon_conflict_created": false,
+    "notes": "Exact years are used where canon records them. Current birth years are inferred from recorded ages in 831 C. Older historical birth years are conservative estimates and marked as such."
   }
 ]

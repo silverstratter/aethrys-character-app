@@ -57,7 +57,10 @@
       "The Crowns of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 462 C",
+    "year_died": "Unknown",
+    "date_confidence": "estimated birth; death year not recorded"
   },
   {
     "character_id": "anja_varkel",
@@ -104,7 +107,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 807 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "lysandra_korvassi",
@@ -153,7 +159,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 775 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "avaron_thyr",
@@ -193,7 +202,10 @@
       "Generated first database canon"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": "Unknown",
+    "date_confidence": "semi-legendary Thyran figure"
   },
   {
     "character_id": "tamsin_greycliff",
@@ -242,7 +254,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 781 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "bogdan_dragovic",
@@ -290,7 +305,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 802 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "bogdan_volny",
@@ -338,7 +356,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 813 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "bogna_mirekov",
@@ -386,7 +407,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 804 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "bram_salt",
@@ -433,7 +457,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "branik_roemach",
@@ -482,7 +509,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 808 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "bria_marren",
@@ -530,7 +560,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 809 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "tavin_ash",
@@ -574,7 +607,10 @@
       "C5 Factions"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "calista_korvassi",
@@ -621,7 +657,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 802 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "erena_volny",
@@ -672,7 +711,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 772 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "crown_princess_ashara_ashurim",
@@ -720,7 +762,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "damis_maraxis",
@@ -767,7 +812,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 773 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "danyr_mirekov",
@@ -815,7 +863,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 816 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "danyr_volny",
@@ -864,7 +915,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 771 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "darya_dunin",
@@ -912,7 +966,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 809 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "dione_nemeon",
@@ -960,7 +1017,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 809 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "doreth_kazrak",
@@ -1007,7 +1067,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 813 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "drazek_vargan",
@@ -1048,7 +1111,10 @@
       "The War of Three Mothers"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": "Unknown",
+    "date_confidence": "exact dates not yet recorded"
   },
   {
     "character_id": "edrava_first_hearth",
@@ -1088,7 +1154,10 @@
       "Generated first database canon"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": "Unknown",
+    "date_confidence": "legendary Age of Nearness figure"
   },
   {
     "character_id": "edric_merrowyn",
@@ -1142,7 +1211,10 @@
       "The Crowns of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 305 C",
+    "year_died": "Unknown",
+    "date_confidence": "estimated birth; death year not recorded"
   },
   {
     "character_id": "elspeth_greycliff",
@@ -1189,7 +1261,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 806 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "erena_dragovic",
@@ -1239,7 +1314,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 807 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "eryne_telassar",
@@ -1284,7 +1362,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 812 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "examiner_roland_caldris",
@@ -1327,7 +1408,10 @@
       "C5 Factions"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "jory_pell",
@@ -1370,7 +1454,10 @@
       "C5 Factions"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "father_lucien_halwen",
@@ -1411,7 +1498,10 @@
       "C5 Factions"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "cassian_nemeon",
@@ -1463,7 +1553,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 782 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "kasimir_mirekov",
@@ -1514,7 +1607,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 774 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "gavren_holt",
@@ -1557,7 +1653,10 @@
       "Project conversation canon"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "gavren_serrant",
@@ -1618,7 +1717,10 @@
       "The Crowns of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 426 C",
+    "year_died": "Unknown",
+    "date_confidence": "estimated birth; death year not recorded"
   },
   {
     "character_id": "gavren_vargan",
@@ -1670,7 +1772,10 @@
       "The Crowns of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 664 C",
+    "year_died": "Unknown",
+    "date_confidence": "estimated birth; death year not recorded"
   },
   {
     "character_id": "caerun_voss",
@@ -1710,7 +1815,10 @@
       "Generated first database canon"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": "Unknown",
+    "date_confidence": "ancient Thyran figure"
   },
   {
     "character_id": "gregor_roemach",
@@ -1757,7 +1865,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 777 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "veska_dunin",
@@ -1808,7 +1919,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 783 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "harl_greycliff",
@@ -1855,7 +1969,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 812 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "helka_roemach",
@@ -1902,7 +2019,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 805 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "high_consort_nasir_belasir",
@@ -1951,7 +2071,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "melaina_telassar",
@@ -1998,7 +2121,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 786 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "vaelen_orswick",
@@ -2042,7 +2168,10 @@
       "Valedorn Duchies and Crown Marshals"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "milena_dragovic",
@@ -2093,7 +2222,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 779 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "iason_nemeon",
@@ -2141,7 +2273,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 819 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "ilse_drakkar",
@@ -2189,7 +2324,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 800 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "jory_marren",
@@ -2237,7 +2375,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 804 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "katya_dragovic",
@@ -2285,7 +2426,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 814 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "marius_donnicton",
@@ -2337,7 +2481,10 @@
       "Lords and Ladies of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 787 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "ameline_montreve",
@@ -2382,7 +2529,10 @@
       "Crownward of Aurelis Canon Reference"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "ameline_vargan",
@@ -2428,7 +2578,10 @@
       "Crownward of Aurelis Canon Reference"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "celene_caldris",
@@ -2474,7 +2627,10 @@
       "Crownward of Aurelis Canon Reference"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "celene_daurien",
@@ -2519,7 +2675,10 @@
       "Crownward of Aurelis Canon Reference"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "celene_valemar",
@@ -2566,7 +2725,10 @@
       "Crownward of Aurelis Canon Reference"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "elara_serrant",
@@ -2614,7 +2776,10 @@
       "Crownward of Aurelis Canon Reference"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "elswyth_montreve",
@@ -2660,7 +2825,10 @@
       "Crownward of Aurelis Canon Reference"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "katarin_mirec",
@@ -2705,7 +2873,10 @@
       "Crownward of Aurelis Canon Reference"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "maerelle_valemar",
@@ -2760,7 +2931,10 @@
       "Crowns Raised Over Old Stones: A Player’s History of Aethrys"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 431 C",
+    "year_died": "Unknown",
+    "date_confidence": "estimated birth; death year not recorded"
   },
   {
     "character_id": "mirelle_caldris",
@@ -2805,7 +2979,10 @@
       "Crownward of Aurelis Canon Reference"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "mirelle_daurien",
@@ -2851,7 +3028,10 @@
       "Crownward of Aurelis Canon Reference"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "osyra_mirec",
@@ -2906,7 +3086,10 @@
       "Crowns Raised Over Old Stones: A Player’s History of Aethrys"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 428 C",
+    "year_died": "Unknown",
+    "date_confidence": "estimated birth; death year not recorded"
   },
   {
     "character_id": "roselle_halwen",
@@ -2952,7 +3135,10 @@
       "Crownward of Aurelis Canon Reference"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "roselle_montreve_heavy_keys",
@@ -2993,7 +3179,10 @@
       "The War of Three Mothers"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": "Unknown",
+    "date_confidence": "exact dates not yet recorded"
   },
   {
     "character_id": "roselle_serrant",
@@ -3038,7 +3227,10 @@
       "Crownward of Aurelis Canon Reference"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "sabine_halwen",
@@ -3083,7 +3275,10 @@
       "Crownward of Aurelis Canon Reference"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "sabine_mirec",
@@ -3132,7 +3327,10 @@
       "Crownward of Aurelis Canon Reference"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "yselle_valemar_current",
@@ -3182,7 +3380,10 @@
       "Crownward of Aurelis Canon Reference"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "yselle_vargan",
@@ -3227,7 +3428,10 @@
       "Crownward of Aurelis Canon Reference"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "leandros_telassar",
@@ -3272,7 +3476,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "lethia_sarn",
@@ -3312,7 +3519,10 @@
       "Generated first database canon"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": "Unknown",
+    "date_confidence": "ancient Thyran figure"
   },
   {
     "character_id": "edravan_mirec",
@@ -3353,7 +3563,10 @@
       "The War of Three Mothers"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": "Unknown",
+    "date_confidence": "exact dates not yet recorded"
   },
   {
     "character_id": "hadrien_montreve",
@@ -3396,7 +3609,10 @@
       "The Crowns of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 282 C",
+    "year_died": "Unknown",
+    "date_confidence": "estimated birth; death year not recorded"
   },
   {
     "character_id": "lucien_valemar_ii",
@@ -3441,7 +3657,10 @@
       "Crownward of Aurelis Canon Reference"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "orsian_montreve",
@@ -3482,7 +3701,10 @@
       "The War of Three Mothers"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": "Unknown",
+    "date_confidence": "exact dates not yet recorded"
   },
   {
     "character_id": "renald_valemar",
@@ -3531,7 +3753,10 @@
       "Crownward of Aurelis Canon Reference"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "renald_valemar_historical",
@@ -3572,7 +3797,10 @@
       "The War of Three Mothers"
     ],
     "canon_notes": "Distinct from Lord Renald Valemar of 831 C unless later canon intentionally connects the namesakes.",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 420 C",
+    "year_died": "Unknown",
+    "date_confidence": "estimated birth; death year not recorded"
   },
   {
     "character_id": "vaelric_valemar",
@@ -3613,7 +3841,10 @@
       "The War of Three Mothers"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": "Unknown",
+    "date_confidence": "exact dates not yet recorded"
   },
   {
     "character_id": "corin_marren",
@@ -3664,7 +3895,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 776 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "lucien_daurien",
@@ -3711,7 +3945,10 @@
       "The Crowns of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 392 C",
+    "year_died": "Unknown",
+    "date_confidence": "estimated birth; death year not recorded"
   },
   {
     "character_id": "lucien_montreve",
@@ -3770,7 +4007,10 @@
       "The Crowns of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 556 C",
+    "year_died": "Unknown",
+    "date_confidence": "estimated birth; death year not recorded"
   },
   {
     "character_id": "lucien_valemar",
@@ -3817,7 +4057,10 @@
       "The Crowns of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 750 C",
+    "year_died": "Unknown",
+    "date_confidence": "estimated birth; death year not recorded"
   },
   {
     "character_id": "mael_marren",
@@ -3865,7 +4108,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 815 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "maella_fen",
@@ -3906,7 +4152,10 @@
       "The War of Three Mothers"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": "Unknown",
+    "date_confidence": "exact dates not yet recorded"
   },
   {
     "character_id": "magister_celene_daurien",
@@ -3949,7 +4198,10 @@
       "C5 Factions"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "iovan_pell",
@@ -3989,7 +4241,10 @@
       "Generated first database canon"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": "Unknown",
+    "date_confidence": "ancient Thyran figure"
   },
   {
     "character_id": "serevan_caldris",
@@ -4030,7 +4285,10 @@
       "The War of Three Mothers"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": "Unknown",
+    "date_confidence": "exact dates not yet recorded"
   },
   {
     "character_id": "seressa_morcant",
@@ -4074,7 +4332,10 @@
       "Project conversation canon"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "marek_valemar",
@@ -4133,7 +4394,10 @@
       "The Crowns of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 529 C",
+    "year_died": "Unknown",
+    "date_confidence": "estimated birth; death year not recorded"
   },
   {
     "character_id": "marek_vargan",
@@ -4182,7 +4446,10 @@
       "The Crowns of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 363 C",
+    "year_died": "Unknown",
+    "date_confidence": "estimated birth; death year not recorded"
   },
   {
     "character_id": "isolde_brenn",
@@ -4226,7 +4493,10 @@
       "Valedorn Duchies and Crown Marshals"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "maerra_coldwyne",
@@ -4270,7 +4540,10 @@
       "Valedorn Duchies and Crown Marshals"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "odelia_wrenne",
@@ -4314,7 +4587,10 @@
       "Valedorn Duchies and Crown Marshals"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "sylvaine_kest",
@@ -4358,7 +4634,10 @@
       "Valedorn Duchies and Crown Marshals"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "garric_thornhull",
@@ -4402,7 +4681,10 @@
       "Valedorn Duchies and Crown Marshals"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "halric_morn",
@@ -4446,7 +4728,10 @@
       "Valedorn Duchies and Crown Marshals"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "mathis_grell",
@@ -4490,7 +4775,10 @@
       "Valedorn Duchies and Crown Marshals"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "renwick_sable",
@@ -4534,7 +4822,10 @@
       "Valedorn Duchies and Crown Marshals"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "merek_kazrak",
@@ -4581,7 +4872,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 816 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "mira_dunin",
@@ -4629,7 +4923,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 815 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "mira_reedwife",
@@ -4670,7 +4967,10 @@
       "C5 Factions"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "mirek_dunin",
@@ -4719,7 +5019,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "mirek_volny",
@@ -4767,7 +5070,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 797 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "marcenna_vossen",
@@ -4811,7 +5117,10 @@
       "C5 Factions"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "nakor_ford_speaker",
@@ -4851,7 +5160,10 @@
       "Generated first database canon"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": "Unknown",
+    "date_confidence": "legendary Age of Nearness figure"
   },
   {
     "character_id": "nessa_marren",
@@ -4900,7 +5212,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 780 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "nikoros_korvassi",
@@ -4947,7 +5262,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 805 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "norra_salt",
@@ -4994,7 +5312,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 797 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "odran_halwen",
@@ -5055,7 +5376,10 @@
       "The Crowns of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 497 C",
+    "year_died": "Unknown",
+    "date_confidence": "estimated birth; death year not recorded"
   },
   {
     "character_id": "orren_greycliff",
@@ -5102,7 +5426,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 779 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "othmar_varkel",
@@ -5149,7 +5476,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 803 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "phokas_nemeon",
@@ -5197,7 +5527,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 811 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "prince_gavren_aurellan",
@@ -5257,7 +5590,10 @@
       "The Crowns of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 672 C",
+    "year_died": "Unknown",
+    "date_confidence": "estimated birth; death year not recorded"
   },
   {
     "character_id": "hendrik_varkel",
@@ -5306,7 +5642,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 773 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "prince_kasef_ashurim",
@@ -5354,7 +5693,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "prince_odran_merrowyn",
@@ -5406,7 +5748,10 @@
       "The Crowns of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 370 C",
+    "year_died": "Unknown",
+    "date_confidence": "estimated birth; death year not recorded"
   },
   {
     "character_id": "othmar_drakkar",
@@ -5457,7 +5802,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 768 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "prince_roland_aurellan",
@@ -5511,7 +5859,10 @@
       "The Crowns of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 536 C",
+    "year_died": "Unknown",
+    "date_confidence": "estimated birth; death year not recorded"
   },
   {
     "character_id": "stavos_kazrak",
@@ -5560,7 +5911,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 784 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "prince_tomas_aurellan",
@@ -5610,7 +5964,10 @@
       "The Crowns of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 472 C",
+    "year_died": "Unknown",
+    "date_confidence": "estimated birth; death year not recorded"
   },
   {
     "character_id": "princess_ameline_aurellan",
@@ -5669,7 +6026,10 @@
       "The Crowns of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 625 C",
+    "year_died": "Unknown",
+    "date_confidence": "estimated birth; death year not recorded"
   },
   {
     "character_id": "princess_celene_aurellan",
@@ -5727,7 +6087,10 @@
       "The Crowns of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 594 C",
+    "year_died": "Unknown",
+    "date_confidence": "estimated birth; death year not recorded"
   },
   {
     "character_id": "princess_elara_aurellan_daughter_of_aurella_i",
@@ -5777,7 +6140,10 @@
       "The Crowns of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": "Unknown",
+    "date_confidence": "exact dates not yet recorded"
   },
   {
     "character_id": "princess_elara_aurellan_sister_of_mirelle_iii",
@@ -5836,7 +6202,10 @@
       "The Crowns of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 756 C",
+    "year_died": "Unknown",
+    "date_confidence": "estimated birth; death year not recorded"
   },
   {
     "character_id": "princess_elswyth_aurellan",
@@ -5896,7 +6265,10 @@
       "The Crowns of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 670 C",
+    "year_died": "Unknown",
+    "date_confidence": "estimated birth; death year not recorded"
   },
   {
     "character_id": "princess_elswyth_merrowyn_early",
@@ -5945,7 +6317,10 @@
       "The Crowns of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 340 C",
+    "year_died": "Unknown",
+    "date_confidence": "estimated birth; death year not recorded"
   },
   {
     "character_id": "princess_helin_ashurim",
@@ -5993,7 +6368,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "marda_roemach",
@@ -6042,7 +6420,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 780 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "princess_mirelle_aurellan_daughter_of_ameline",
@@ -6096,7 +6477,10 @@
       "The Crowns of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 534 C",
+    "year_died": "Unknown",
+    "date_confidence": "estimated birth; death year not recorded"
   },
   {
     "character_id": "princess_mirelle_merrowyn",
@@ -6148,7 +6532,10 @@
       "The Crowns of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 368 C",
+    "year_died": "Unknown",
+    "date_confidence": "estimated birth; death year not recorded"
   },
   {
     "character_id": "princess_petra_drakkar",
@@ -6197,7 +6584,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "princess_roselle_aurellan_daughter_of_elara_i",
@@ -6255,7 +6645,10 @@
       "The Crowns of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 592 C",
+    "year_died": "Unknown",
+    "date_confidence": "estimated birth; death year not recorded"
   },
   {
     "character_id": "princess_roselle_merrowyn",
@@ -6308,7 +6701,10 @@
       "The Crowns of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 398 C",
+    "year_died": "Unknown",
+    "date_confidence": "estimated birth; death year not recorded"
   },
   {
     "character_id": "princess_sabine_aurellan_daughter_of_mirelle_ii",
@@ -6367,7 +6763,10 @@
       "The Crowns of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 717 C",
+    "year_died": "Unknown",
+    "date_confidence": "estimated birth; death year not recorded"
   },
   {
     "character_id": "princess_sabine_aurellan_daughter_of_yselle",
@@ -6422,7 +6821,10 @@
       "The Crowns of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 562 C",
+    "year_died": "Unknown",
+    "date_confidence": "estimated birth; death year not recorded"
   },
   {
     "character_id": "princess_sabine_merrowyn",
@@ -6477,7 +6879,10 @@
       "The Crowns of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 426 C",
+    "year_died": "Unknown",
+    "date_confidence": "estimated birth; death year not recorded"
   },
   {
     "character_id": "princess_yselle_aurellan",
@@ -6528,7 +6933,10 @@
       "The Crowns of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 502 C",
+    "year_died": "Unknown",
+    "date_confidence": "estimated birth; death year not recorded"
   },
   {
     "character_id": "belvran_of_the_reeds",
@@ -6569,7 +6977,10 @@
       "The War of Three Mothers"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": "Unknown",
+    "date_confidence": "exact dates not yet recorded"
   },
   {
     "character_id": "syl_holloway",
@@ -6610,7 +7021,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 784 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "alisanne_i_merrowyn",
@@ -6670,7 +7084,10 @@
       "Crowns Raised Over Old Stones: A Player’s History of Aethrys"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 308 C",
+    "year_died": "368 C",
+    "date_confidence": "estimated birth; confirmed death year"
   },
   {
     "character_id": "ameline_aurellan",
@@ -6747,7 +7164,10 @@
       "Crowns Raised Over Old Stones: A Player’s History of Aethrys"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 500 C",
+    "year_died": "565 C",
+    "date_confidence": "estimated birth; confirmed death year"
   },
   {
     "character_id": "aurella_i_aurellan",
@@ -6814,7 +7234,10 @@
       "Crowns Raised Over Old Stones: A Player’s History of Aethrys"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 430 C",
+    "year_died": "508 C",
+    "date_confidence": "estimated birth; confirmed death year"
   },
   {
     "character_id": "aurella_ii_aurellan",
@@ -6894,7 +7317,10 @@
       "Crowns Raised Over Old Stones: A Player’s History of Aethrys"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 622 C",
+    "year_died": "691 C",
+    "date_confidence": "estimated birth; confirmed death year"
   },
   {
     "character_id": "elara_i_aurellan",
@@ -6973,7 +7399,10 @@
       "Crowns Raised Over Old Stones: A Player’s History of Aethrys"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 560 C",
+    "year_died": "626 C",
+    "date_confidence": "estimated birth; confirmed death year"
   },
   {
     "character_id": "elara_ii_aurellan",
@@ -7047,7 +7476,10 @@
       "The Crowns of Valedorn"
     ],
     "canon_notes": "Older references identify the missing princess as Roslin; current player-facing usage should be Lost Princess Aurellan unless the DM chooses otherwise.",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 790 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "elswyth_merrowyn",
@@ -7113,7 +7545,10 @@
       "Crowns Raised Over Old Stones: A Player’s History of Aethrys"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 366 C",
+    "year_died": "417 C",
+    "date_confidence": "estimated birth; confirmed death year"
   },
   {
     "character_id": "katarin_merrowyn",
@@ -7178,7 +7613,10 @@
       "Crowns Raised Over Old Stones: A Player’s History of Aethrys"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 394 C",
+    "year_died": "445 C",
+    "date_confidence": "estimated birth; confirmed death year"
   },
   {
     "character_id": "mirelle_i_merrowyn",
@@ -7239,7 +7677,10 @@
       "Crowns Raised Over Old Stones: A Player’s History of Aethrys"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "419 C",
+    "year_died": "468 C",
+    "date_confidence": "birth inferred from recorded age at death; confirmed death year"
   },
   {
     "character_id": "mirelle_ii_aurellan",
@@ -7316,7 +7757,10 @@
       "Crowns Raised Over Old Stones: A Player’s History of Aethrys"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 668 C",
+    "year_died": "744 C",
+    "date_confidence": "estimated birth; confirmed death year"
   },
   {
     "character_id": "mirelle_iii_aurellan",
@@ -7388,7 +7832,10 @@
       "Crowns Raised Over Old Stones: A Player’s History of Aethrys"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 754 C",
+    "year_died": "822 C",
+    "date_confidence": "estimated birth; confirmed death year"
   },
   {
     "character_id": "roselle_ii_aurellan",
@@ -7462,7 +7909,10 @@
       "Crowns Raised Over Old Stones: A Player’s History of Aethrys"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 715 C",
+    "year_died": "786 C",
+    "date_confidence": "estimated birth; confirmed death year"
   },
   {
     "character_id": "roslin_i_aurellan",
@@ -7537,7 +7987,10 @@
       "Crowns Raised Over Old Stones: A Player’s History of Aethrys"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 466 C",
+    "year_died": "536 C",
+    "date_confidence": "estimated birth; confirmed death year"
   },
   {
     "character_id": "sabine_i_merrowyn",
@@ -7604,7 +8057,10 @@
       "Crowns Raised Over Old Stones: A Player’s History of Aethrys"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 337 C",
+    "year_died": "391 C",
+    "date_confidence": "estimated birth; confirmed death year"
   },
   {
     "character_id": "sabine_ii_aurellan",
@@ -7684,7 +8140,10 @@
       "Crowns Raised Over Old Stones: A Player’s History of Aethrys"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 590 C",
+    "year_died": "653 C",
+    "date_confidence": "estimated birth; confirmed death year"
   },
   {
     "character_id": "yselle_aurellan",
@@ -7762,7 +8221,10 @@
       "Crowns Raised Over Old Stones: A Player’s History of Aethrys"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 532 C",
+    "year_died": "592 C",
+    "date_confidence": "estimated birth; confirmed death year"
   },
   {
     "character_id": "radek_dragovic",
@@ -7811,7 +8273,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 776 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "maedra_ashmantle",
@@ -7862,7 +8327,10 @@
       "Crowns Raised Over Old Stones: A Player’s History of Aethrys"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 245 C",
+    "year_died": "301 C",
+    "date_confidence": "estimated birth; confirmed death year"
   },
   {
     "character_id": "roselle_montreve_regent",
@@ -7913,7 +8381,10 @@
       "Crowns Raised Over Old Stones: A Player’s History of Aethrys"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 285 C",
+    "year_died": "341 C",
+    "date_confidence": "estimated birth; confirmed death year"
   },
   {
     "character_id": "ysenne_halrow",
@@ -7963,7 +8434,10 @@
       "Crowns Raised Over Old Stones: A Player’s History of Aethrys"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 261 C",
+    "year_died": "323 C",
+    "date_confidence": "birth inferred from recorded death age; confirmed death year"
   },
   {
     "character_id": "renka_balkspar",
@@ -8010,7 +8484,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 787 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "roland_caldris",
@@ -8051,7 +8528,10 @@
       "The Crowns of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 416 C",
+    "year_died": "Unknown",
+    "date_confidence": "estimated birth; death year not recorded"
   },
   {
     "character_id": "roland_mirec",
@@ -8107,7 +8587,10 @@
       "The Crowns of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 618 C",
+    "year_died": "Unknown",
+    "date_confidence": "estimated birth; death year not recorded"
   },
   {
     "character_id": "rowan_salt",
@@ -8154,7 +8637,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 802 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "saint_carovin_bridge_keeper",
@@ -8199,7 +8685,10 @@
       "Ruins, Saints, Local Monsters, Noble Scandals"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": "Unknown",
+    "date_confidence": "saint; exact dates not recorded"
   },
   {
     "character_id": "saint_halwen_open_door",
@@ -8244,7 +8733,10 @@
       "Ruins, Saints, Local Monsters, Noble Scandals"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": "Unknown",
+    "date_confidence": "saint; exact dates not recorded"
   },
   {
     "character_id": "saint_mirelle_last_bell",
@@ -8289,7 +8781,10 @@
       "Ruins, Saints, Local Monsters, Noble Scandals"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": "Unknown",
+    "date_confidence": "saint; exact dates not recorded"
   },
   {
     "character_id": "saint_odrisse_clean_bowl",
@@ -8334,7 +8829,10 @@
       "Ruins, Saints, Local Monsters, Noble Scandals"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": "Unknown",
+    "date_confidence": "saint; exact dates not recorded"
   },
   {
     "character_id": "edda_salt",
@@ -8383,7 +8881,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 769 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "aurelian_aurellan",
@@ -8426,7 +8927,10 @@
       "The War of Three Mothers"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 423 C",
+    "year_died": "Unknown",
+    "date_confidence": "estimated birth; death year not recorded"
   },
   {
     "character_id": "caelric_valemar",
@@ -8467,7 +8971,10 @@
       "The War of Three Mothers"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": "Unknown",
+    "date_confidence": "exact dates not yet recorded"
   },
   {
     "character_id": "corin_ashmantle_historical",
@@ -8510,7 +9017,10 @@
       "The Crowns of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 242 C",
+    "year_died": "before 287 C",
+    "date_confidence": "estimated birth; death recorded before Maedra’s regency"
   },
   {
     "character_id": "theryn_mirec",
@@ -8551,7 +9061,10 @@
       "The War of Three Mothers"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": "Unknown",
+    "date_confidence": "exact dates not yet recorded"
   },
   {
     "character_id": "tomas_valemar_war",
@@ -8592,7 +9105,10 @@
       "The War of Three Mothers"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": "Unknown",
+    "date_confidence": "exact dates not yet recorded"
   },
   {
     "character_id": "vaustren_mirec",
@@ -8633,7 +9149,10 @@
       "The War of Three Mothers"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": "Unknown",
+    "date_confidence": "exact dates not yet recorded"
   },
   {
     "character_id": "maelin_briar",
@@ -8676,7 +9195,10 @@
       "C5 Factions"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": null,
+    "date_confidence": "birth year not yet recorded; living in 831 C"
   },
   {
     "character_id": "samira_ashurim",
@@ -8727,7 +9249,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 777 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "stivan_dunin",
@@ -8775,7 +9300,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 812 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "thaleia_argyros",
@@ -8824,7 +9352,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 785 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "lost_princess_aurellan",
@@ -8893,7 +9424,10 @@
       "Lords and Ladies of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 812 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "unborn_princess_aurellan",
@@ -8958,7 +9492,10 @@
       "Lords and Ladies of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "831 C expected",
+    "year_died": null,
+    "date_confidence": "expected birth; living/unborn"
   },
   {
     "character_id": "tomas_daurien",
@@ -9015,7 +9552,10 @@
       "The Crowns of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 587 C",
+    "year_died": "Unknown",
+    "date_confidence": "estimated birth; death year not recorded"
   },
   {
     "character_id": "tomas_halwen",
@@ -9068,7 +9608,10 @@
       "The Crowns of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 334 C",
+    "year_died": "Unknown",
+    "date_confidence": "estimated birth; death year not recorded"
   },
   {
     "character_id": "tomas_halwen_ii",
@@ -9118,7 +9661,10 @@
       "The Crowns of Valedorn"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "Unknown",
+    "year_died": "Unknown",
+    "date_confidence": "exact dates not yet recorded"
   },
   {
     "character_id": "torvin_drakkar",
@@ -9166,7 +9712,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 810 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "varek_drakkar",
@@ -9214,53 +9763,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
-  },
-  {
-    "character_id": "venette_tylora",
-    "display_name": "Venette Tylora",
-    "full_name": "Venette Tylora",
-    "aliases": [
-      "Venette",
-      "Thornblade"
-    ],
-    "titles": [
-      "Thornblade of the Order of the Black Briars"
-    ],
-    "house": "",
-    "family": "Tylora",
-    "dynasty": "",
-    "region": "Valedorn",
-    "place_of_origin": "Unstated",
-    "current_residence": "Aurelis / Black Briar assignment",
-    "seat": "",
-    "era": "Present Day",
-    "active_years": "831 C",
-    "status_831C": "Active in 831 C",
-    "public_status": "Living",
-    "rank_or_role": "Player character; Black Briar Thornblade",
-    "factions": [
-      "Order of the Black Briar"
-    ],
-    "religious_affiliations": [],
-    "parents": [],
-    "spouses_or_partners": [],
-    "betrothed": [],
-    "children": [],
-    "siblings": [],
-    "ancestors": [],
-    "descendants": [],
-    "allies": [],
-    "rivals": [],
-    "important_events": [],
-    "public_reputation": "",
-    "player_facing_summary": "A tiefling Thornblade of the Order of the Black Briars. Her precise personal history belongs to the player, but her role ties her to the order’s monster-hunting and containment work.",
-    "spoiler_level": "player-facing",
-    "source_documents": [
-      "Project conversation canon"
-    ],
-    "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 797 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "vessa_thurn",
@@ -9307,7 +9813,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 775 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "yarek_mirekov",
@@ -9355,7 +9864,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 800 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "zora_mirekov",
@@ -9404,7 +9916,10 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 778 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   },
   {
     "character_id": "zora_volny",
@@ -9452,6 +9967,9 @@
       "C5 Leaders"
     ],
     "canon_notes": "",
-    "last_updated": "2026-05-11"
+    "last_updated": "2026-05-11",
+    "year_born": "c. 801 C",
+    "year_died": null,
+    "date_confidence": "birth inferred from recorded age in 831 C; living unless otherwise noted"
   }
 ]

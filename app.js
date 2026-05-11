@@ -53,7 +53,7 @@ function bindEvents() {
 }
 
 function haystack(c) {
-  return [c.display_name, c.full_name, ...(c.aliases||[]), ...(c.titles||[]), c.house, c.family, c.dynasty, c.region, c.rank_or_role, ...(c.factions||[]), c.public_reputation, c.player_facing_summary].map(norm).join(' | ');
+  return [c.display_name, c.full_name, ...(c.aliases||[]), ...(c.titles||[]), c.house, c.family, c.dynasty, c.region, c.rank_or_role, c.year_born, c.year_died, c.date_confidence, ...(c.factions||[]), c.public_reputation, c.player_facing_summary].map(norm).join(' | ');
 }
 function characterMatches(c) {
   const q = norm(state.query);
@@ -82,13 +82,21 @@ function renderCharacters(res) {
 function card(c) {
   return `<article class="card">
     <h2>${escapeHtml(c.display_name || c.full_name)}</h2>
-    <div class="meta">${pill(c.house)}${pill(c.region)}${pill(c.status_831C)}${pill(c.rank_or_role)}</div>
+    <div class="meta">${pill(c.house)}${pill(c.region)}${pill(lifespan(c))}${pill(c.status_831C)}${pill(c.rank_or_role)}</div>
     <p>${escapeHtml(c.player_facing_summary || c.public_reputation || 'No public summary recorded yet.')}</p>
     ${c.canon_notes ? `<p class="muted">Canon note: ${escapeHtml(c.canon_notes)}</p>` : ''}
     <div class="card-actions"><button class="small-btn" data-open="${c.character_id}">View family</button></div>
   </article>`;
 }
 function pill(v) { return v ? `<span class="pill">${escapeHtml(v)}</span>` : ''; }
+function lifespan(c) {
+  const born = c.year_born && c.year_born !== 'Unknown' ? c.year_born : '';
+  const died = c.year_died && c.year_died !== 'Unknown' ? c.year_died : '';
+  if (born && died) return `${born}–${died}`;
+  if (born && !died) return `b. ${born}`;
+  if (!born && died) return `d. ${died}`;
+  return '';
+}
 
 function renderEntities(res, list, type) {
   const q = norm(state.query);
@@ -111,8 +119,9 @@ function openCharacter(id) {
   const rels = state.relationships.filter(r => r.source_character_id === id || r.target_character_id === id);
   const section = (label, ids) => `<h3 class="section-title">${label}</h3><div class="tree-grid">${ids.length ? ids.map(rid => relationRow(rid, map)).join('') : '<p class="muted">None recorded.</p>'}</div>`;
   $('detailContent').innerHTML = `<h2>${escapeHtml(c.display_name || c.full_name)}</h2>
-    <div class="meta">${pill(c.house)}${pill(c.region)}${pill(c.status_831C)}${pill(c.rank_or_role)}</div>
+    <div class="meta">${pill(c.house)}${pill(c.region)}${pill(lifespan(c))}${pill(c.status_831C)}${pill(c.rank_or_role)}</div>
     <p>${escapeHtml(c.player_facing_summary || 'No public summary recorded yet.')}</p>
+    ${lifespan(c) ? `<p><strong>Recorded dates:</strong> ${escapeHtml(lifespan(c))}${c.date_confidence ? ` <span class="muted">(${escapeHtml(c.date_confidence)})</span>` : ''}</p>` : ''}
     ${c.public_reputation ? `<p><strong>Public reputation:</strong> ${escapeHtml(c.public_reputation)}</p>` : ''}
     ${section('Parents', c.parents || [])}
     ${section('Spouse / Partner', c.spouses_or_partners || [])}
@@ -121,11 +130,11 @@ function openCharacter(id) {
     ${section('Siblings', c.siblings || [])}
     ${section('Ancestors', c.ancestors || [])}
     ${section('Descendants', c.descendants || [])}
-    <h3 class="section-title">Relationship records</h3><div class="tree-grid">${rels.slice(0,30).map(r => relRecord(r, map)).join('') || '<p class="muted">None recorded.</p>'}</div>`;
+    <h3 class="section-title">Relationship records</h3><div class="tree-grid">${rels.slice(0,30).map(r => relRecord(r, map, id)).join('') || '<p class="muted">None recorded.</p>'}</div>`;
   $('detailDialog').showModal();
 }
 function relationRow(id, map) { const c = map[id]; return `<div class="relation-row"><strong>${escapeHtml(c ? c.display_name : title(id))}</strong>${c ? `<span class="muted">${escapeHtml([c.house,c.rank_or_role,c.status_831C].filter(Boolean).join(' · '))}</span>` : '<span class="muted">Record not yet linked.</span>'}</div>`; }
-function relRecord(r, map) { const otherId = r.source_character_id in map ? r.target_character_id : r.source_character_id; const c = map[otherId]; return `<div class="relation-row"><strong>${escapeHtml(title(r.relationship_type))}: ${escapeHtml(c ? c.display_name : title(otherId))}</strong><span class="muted">${escapeHtml(r.certainty || 'confirmed')}</span></div>`; }
+function relRecord(r, map, currentId) { const otherId = r.source_character_id === currentId ? r.target_character_id : r.source_character_id; if (otherId === currentId) return ''; const c = map[otherId]; return `<div class="relation-row"><strong>${escapeHtml(title(r.relationship_type))}: ${escapeHtml(c ? c.display_name : title(otherId))}</strong><span class="muted">${escapeHtml(r.certainty || 'confirmed')}</span></div>`; }
 function escapeHtml(s) { return String(s || '').replace(/[&<>"]/g, ch => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[ch])); }
 
 function registerServiceWorker() {
