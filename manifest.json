@@ -1,0 +1,23 @@
+{
+  "name": "Aethrys Canon Registry",
+  "short_name": "Aethrys",
+  "description": "Player-facing Aethrys character and family tree registry.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#17120c",
+  "theme_color": "#21180f",
+  "icons": [
+    {
+      "src": "icon-192.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

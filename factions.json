@@ -1,0 +1,128 @@
+[
+  {
+    "faction_id": "argent_collegia",
+    "name": "Argent Collegia",
+    "type": "Mage institutions",
+    "summary": "Network of licensed mage institutions; respected, regulated, and politically divided.",
+    "player_facing": true,
+    "associated_characters": [
+      "magister_celene_daurien"
+    ],
+    "source_documents": [
+      "C5 Factions"
+    ]
+  },
+  {
+    "faction_id": "church_sacred_compact",
+    "name": "Church of the Sacred Compact",
+    "type": "Religion",
+    "summary": "The dominant religious institution governing souls, marriages, burials, feast days, oaths, legitimacy, and community standing.",
+    "player_facing": true,
+    "associated_characters": [
+      "father_lucien_halwen",
+      "saint_halwen_open_door"
+    ],
+    "source_documents": [
+      "C5 Setting Bible"
+    ]
+  },
+  {
+    "faction_id": "crown_valedorn",
+    "name": "Crown of Valedorn",
+    "type": "Realm authority",
+    "summary": "Feudal heartland faction representing the queen, royal courts, high nobility, and lawful state authority.",
+    "player_facing": true,
+    "associated_characters": [
+      "elara_ii_aurellan",
+      "marius_donnicton"
+    ],
+    "source_documents": [
+      "C5 Factions",
+      "C5 Setting Bible"
+    ]
+  },
+  {
+    "faction_id": "gilded_charter",
+    "name": "Gilded Charter",
+    "type": "Merchant bloc",
+    "summary": "Merchant bloc controlling caravans, ships, letters, guards, credit, and infrastructure.",
+    "player_facing": true,
+    "associated_characters": [
+      "jory_pell",
+      "marcenna_vossen"
+    ],
+    "source_documents": [
+      "C5 Factions"
+    ]
+  },
+  {
+    "faction_id": "house_of_ash",
+    "name": "House of Ash",
+    "type": "Funerary and plague order",
+    "summary": "Experts in burial failure, dangerous death, plague handling, and corpse contamination.",
+    "player_facing": true,
+    "associated_characters": [
+      "tavin_ash"
+    ],
+    "source_documents": [
+      "C5 Factions"
+    ]
+  },
+  {
+    "faction_id": "lantern_synod",
+    "name": "Lantern Synod",
+    "type": "Church faction",
+    "summary": "Hardline Church faction devoted to Orun, purity, vigilance, magical restraint, false miracles, and dangerous sanctity.",
+    "player_facing": true,
+    "associated_characters": [
+      "examiner_roland_caldris"
+    ],
+    "source_documents": [
+      "C5 Factions"
+    ]
+  },
+  {
+    "faction_id": "black_briar",
+    "name": "Order of the Black Briar",
+    "type": "Monster-hunting order",
+    "summary": "Female-only knightly-monastic monster-hunting and containment order stationed in spiritually unstable regions.",
+    "player_facing": true,
+    "associated_characters": [
+      "maelin_briar",
+      "seressa_morcant",
+      "venette_tylora"
+    ],
+    "source_documents": [
+      "C5 Factions"
+    ]
+  },
+  {
+    "faction_id": "royal_host_valedorn",
+    "name": "Royal Host of Valedorn",
+    "type": "Military",
+    "summary": "The military face of the Crown: levies, sworn knights, household men-at-arms, and disciplined royal forces.",
+    "player_facing": true,
+    "associated_characters": [
+      "vaelen_orswick",
+      "isolde_brenn"
+    ],
+    "source_documents": [
+      "C5 Factions",
+      "Valedorn Duchies and Crown Marshals"
+    ]
+  },
+  {
+    "faction_id": "thorn_kin",
+    "name": "Thorn Kin",
+    "type": "Wild-entangled lineages",
+    "summary": "Loose category of people and bloodlines entangled with wilderness powers; protectors, predators, shrine families, and old pact lineages.",
+    "player_facing": true,
+    "associated_characters": [
+      "mira_reedwife"
+    ],
+    "source_documents": [
+      "C5 Factions",
+      "C5 Setting Bible"
+    ]
+  }
+]

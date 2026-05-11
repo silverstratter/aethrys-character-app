@@ -1,0 +1,95 @@
+[
+  {
+    "region_id": "hollow_coast",
+    "name": "Hollow Coast",
+    "type": "Storm coast",
+    "summary": "Storm-lashed western shore of fishing, salvage, salt, contraband, mourning, sea fear, and harbor lordship.",
+    "key_locations": [
+      "Blackport",
+      "Stormwatch",
+      "Brinehook",
+      "Saint Brine’s Cliff"
+    ],
+    "source_documents": [
+      "C5 Leaders",
+      "C5 Setting Bible"
+    ]
+  },
+  {
+    "region_id": "iron_principalities",
+    "name": "Iron Principalities",
+    "type": "Mountain principalities",
+    "summary": "Mountains, mines, foundries, fortresses, dynastic workshops, and severe practical rulers known as the Iron Thrones.",
+    "key_locations": [
+      "Blackstone Hold",
+      "Deep Quarry",
+      "High Furnace Kazrak",
+      "Silver Pass"
+    ],
+    "source_documents": [
+      "C5 Leaders",
+      "C5 Setting Bible"
+    ]
+  },
+  {
+    "region_id": "thessara",
+    "name": "Maritime League of Thessara",
+    "type": "Maritime league",
+    "summary": "Confederated world of city-states, island harbors, law courts, trade, rhetoric, and old sea devotions.",
+    "key_locations": [
+      "Nemea",
+      "Korvas",
+      "Telassos"
+    ],
+    "source_documents": [
+      "C5 Leaders",
+      "C5 Setting Bible"
+    ]
+  },
+  {
+    "region_id": "northern_marches",
+    "name": "Northern Marches",
+    "type": "Frontier belt",
+    "summary": "Patchwork of holds, forts, clan lands, and hard local authority; hospitality, memory, burial, and winter matter deeply.",
+    "key_locations": [
+      "Skallin Ford",
+      "White Pine Hall",
+      "Red Birch Keep",
+      "Frostmere"
+    ],
+    "source_documents": [
+      "C5 Leaders",
+      "C5 Setting Bible"
+    ]
+  },
+  {
+    "region_id": "sun_dominion",
+    "name": "Sun Dominion",
+    "type": "Centralized imperial state",
+    "summary": "Bureaucratic, disciplined, orderly, imperial heir culture ruled through record, administration, roads, and formal hierarchy.",
+    "key_locations": [
+      "Citadel of Ashur"
+    ],
+    "source_documents": [
+      "C5 Leaders",
+      "C5 Setting Bible"
+    ]
+  },
+  {
+    "region_id": "valedorn",
+    "name": "Valedorn",
+    "type": "Crown-state",
+    "summary": "Feudal, pious, lawful, status-conscious heartland ruled from Aurelis; the default campaign center.",
+    "key_locations": [
+      "Aurelis",
+      "Velmara",
+      "Rookhaven",
+      "Dun Mirel",
+      "Crownward / Oathward"
+    ],
+    "source_documents": [
+      "C5 Setting Bible",
+      "A Primer on the Lands of Aethrys"
+    ]
+  }
+]

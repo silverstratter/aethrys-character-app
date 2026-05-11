@@ -1,0 +1,13 @@
+[
+  {
+    "date": "2026-05-11",
+    "character_ids_affected": [
+      "all"
+    ],
+    "summary_of_change": "Initial extracted Aethrys canon character database and player-facing search app created from project documents and current canon guardrails.",
+    "player_facing_change": true,
+    "dm_only_change": true,
+    "canon_conflict_created": false,
+    "notes": "Older references naming the missing princess Roslin are resolved player-facing as the Lost Princess Aurellan; current DM canon is preserved only in characters_dm.json."
+  }
+]

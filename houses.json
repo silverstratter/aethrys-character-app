@@ -1,0 +1,451 @@
+[
+  {
+    "house_id": "family_ashurim",
+    "name": "House / Family Ashurim",
+    "region": "Sun Dominion",
+    "seat": "Citadel of Ashur",
+    "status_831C": "Regional ruling family",
+    "summary": "A ruling or prominent family of Sun Dominion, based at Citadel of Ashur.",
+    "associated_characters": [
+      "samira_ashurim",
+      "crown_princess_ashara_ashurim",
+      "prince_kasef_ashurim",
+      "princess_helin_ashurim"
+    ],
+    "source_documents": [
+      "C5 Leaders"
+    ]
+  },
+  {
+    "house_id": "family_dragovic",
+    "name": "House / Family Dragovic",
+    "region": "Northern Marches",
+    "seat": "Skallin Ford",
+    "status_831C": "Regional ruling family",
+    "summary": "A ruling or prominent family of Northern Marches, based at Skallin Ford.",
+    "associated_characters": [
+      "milena_dragovic",
+      "radek_dragovic",
+      "bogdan_dragovic",
+      "erena_dragovic",
+      "katya_dragovic"
+    ],
+    "source_documents": [
+      "C5 Leaders"
+    ]
+  },
+  {
+    "house_id": "family_drakkar",
+    "name": "House / Family Drakkar",
+    "region": "Iron Principalities",
+    "seat": "Blackstone Hold",
+    "status_831C": "Regional ruling family",
+    "summary": "A ruling or prominent family of Iron Principalities, based at Blackstone Hold.",
+    "associated_characters": [
+      "othmar_drakkar",
+      "princess_petra_drakkar",
+      "varek_drakkar",
+      "ilse_drakkar",
+      "torvin_drakkar"
+    ],
+    "source_documents": [
+      "C5 Leaders"
+    ]
+  },
+  {
+    "house_id": "family_dunin",
+    "name": "House / Family Dunin",
+    "region": "Northern Marches",
+    "seat": "White Pine Hall",
+    "status_831C": "Regional ruling family",
+    "summary": "A ruling or prominent family of Northern Marches, based at White Pine Hall.",
+    "associated_characters": [
+      "veska_dunin",
+      "mirek_dunin",
+      "darya_dunin",
+      "stivan_dunin",
+      "mira_dunin"
+    ],
+    "source_documents": [
+      "C5 Leaders"
+    ]
+  },
+  {
+    "house_id": "family_greycliff",
+    "name": "House / Family Greycliff",
+    "region": "Hollow Coast",
+    "seat": "Stormwatch",
+    "status_831C": "Regional ruling family",
+    "summary": "A ruling or prominent family of Hollow Coast, based at Stormwatch.",
+    "associated_characters": [
+      "tamsin_greycliff",
+      "orren_greycliff",
+      "elspeth_greycliff",
+      "harl_greycliff"
+    ],
+    "source_documents": [
+      "C5 Leaders"
+    ]
+  },
+  {
+    "house_id": "family_holloway",
+    "name": "House / Family Holloway",
+    "region": "Hollow Coast",
+    "seat": "Saint Brine’s Cliff",
+    "status_831C": "Regional ruling family",
+    "summary": "A ruling or prominent family of Hollow Coast, based at Saint Brine’s Cliff.",
+    "associated_characters": [
+      "syl_holloway"
+    ],
+    "source_documents": [
+      "C5 Leaders"
+    ]
+  },
+  {
+    "house_id": "family_kazrak",
+    "name": "House / Family Kazrak",
+    "region": "Iron Principalities",
+    "seat": "High Furnace Kazrak",
+    "status_831C": "Regional ruling family",
+    "summary": "A ruling or prominent family of Iron Principalities, based at High Furnace Kazrak.",
+    "associated_characters": [
+      "stavos_kazrak",
+      "doreth_kazrak",
+      "merek_kazrak"
+    ],
+    "source_documents": [
+      "C5 Leaders"
+    ]
+  },
+  {
+    "house_id": "family_korvassi",
+    "name": "House / Family Korvassi",
+    "region": "Maritime League of Thessara",
+    "seat": "Korvas",
+    "status_831C": "Regional ruling family",
+    "summary": "A ruling or prominent family of Maritime League of Thessara, based at Korvas.",
+    "associated_characters": [
+      "lysandra_korvassi",
+      "calista_korvassi",
+      "nikoros_korvassi"
+    ],
+    "source_documents": [
+      "C5 Leaders"
+    ]
+  },
+  {
+    "house_id": "family_marren",
+    "name": "House / Family Marren",
+    "region": "Hollow Coast",
+    "seat": "Blackport",
+    "status_831C": "Regional ruling family",
+    "summary": "A ruling or prominent family of Hollow Coast, based at Blackport.",
+    "associated_characters": [
+      "corin_marren",
+      "nessa_marren",
+      "jory_marren",
+      "bria_marren",
+      "mael_marren"
+    ],
+    "source_documents": [
+      "C5 Leaders"
+    ]
+  },
+  {
+    "house_id": "family_mirekov",
+    "name": "House / Family Mirekov",
+    "region": "Northern Marches",
+    "seat": "Red Birch Keep",
+    "status_831C": "Regional ruling family",
+    "summary": "A ruling or prominent family of Northern Marches, based at Red Birch Keep.",
+    "associated_characters": [
+      "kasimir_mirekov",
+      "zora_mirekov",
+      "yarek_mirekov",
+      "bogna_mirekov",
+      "danyr_mirekov"
+    ],
+    "source_documents": [
+      "C5 Leaders"
+    ]
+  },
+  {
+    "house_id": "family_nemeon",
+    "name": "House / Family Nemeon",
+    "region": "Maritime League of Thessara",
+    "seat": "Nemea",
+    "status_831C": "Regional ruling family",
+    "summary": "A ruling or prominent family of Maritime League of Thessara, based at Nemea.",
+    "associated_characters": [
+      "cassian_nemeon",
+      "dione_nemeon",
+      "phokas_nemeon",
+      "iason_nemeon"
+    ],
+    "source_documents": [
+      "C5 Leaders"
+    ]
+  },
+  {
+    "house_id": "family_roemach",
+    "name": "House / Family Roemach",
+    "region": "Iron Principalities",
+    "seat": "Deep Quarry",
+    "status_831C": "Regional ruling family",
+    "summary": "A ruling or prominent family of Iron Principalities, based at Deep Quarry.",
+    "associated_characters": [
+      "marda_roemach",
+      "gregor_roemach",
+      "helka_roemach",
+      "branik_roemach"
+    ],
+    "source_documents": [
+      "C5 Leaders"
+    ]
+  },
+  {
+    "house_id": "family_salt",
+    "name": "House / Family Salt",
+    "region": "Hollow Coast",
+    "seat": "Brinehook",
+    "status_831C": "Regional ruling family",
+    "summary": "A ruling or prominent family of Hollow Coast, based at Brinehook.",
+    "associated_characters": [
+      "edda_salt",
+      "bram_salt",
+      "norra_salt",
+      "rowan_salt"
+    ],
+    "source_documents": [
+      "C5 Leaders"
+    ]
+  },
+  {
+    "house_id": "family_telassar",
+    "name": "House / Family Telassar",
+    "region": "Maritime League of Thessara",
+    "seat": "Telassos",
+    "status_831C": "Regional ruling family",
+    "summary": "A ruling or prominent family of Maritime League of Thessara, based at Telassos.",
+    "associated_characters": [
+      "melaina_telassar",
+      "leandros_telassar",
+      "eryne_telassar"
+    ],
+    "source_documents": [
+      "C5 Leaders"
+    ]
+  },
+  {
+    "house_id": "family_varkel",
+    "name": "House / Family Varkel",
+    "region": "Iron Principalities",
+    "seat": "Silver Pass",
+    "status_831C": "Regional ruling family",
+    "summary": "A ruling or prominent family of Iron Principalities, based at Silver Pass.",
+    "associated_characters": [
+      "hendrik_varkel",
+      "othmar_varkel",
+      "anja_varkel"
+    ],
+    "source_documents": [
+      "C5 Leaders"
+    ]
+  },
+  {
+    "house_id": "family_volny",
+    "name": "House / Family Volny",
+    "region": "Northern Marches",
+    "seat": "Frostmere",
+    "status_831C": "Regional ruling family",
+    "summary": "A ruling or prominent family of Northern Marches, based at Frostmere.",
+    "associated_characters": [
+      "erena_volny",
+      "danyr_volny",
+      "mirek_volny",
+      "zora_volny",
+      "bogdan_volny"
+    ],
+    "source_documents": [
+      "C5 Leaders"
+    ]
+  },
+  {
+    "house_id": "house_aurellan",
+    "name": "House Aurellan",
+    "region": "Valedorn",
+    "seat": "Aurelis",
+    "status_831C": "Royal house",
+    "summary": "The ruling dynasty of Valedorn since Queen Aurella I founded the current royal house in 479 C after the War of Three Mothers.",
+    "associated_characters": [
+      "aurella_i_aurellan",
+      "elara_ii_aurellan",
+      "mirelle_iii_aurellan",
+      "lost_princess_aurellan"
+    ],
+    "source_documents": [
+      "The Crowns of Valedorn",
+      "Lords and Ladies of Valedorn",
+      "Crownward of Aurelis Canon Reference"
+    ]
+  },
+  {
+    "house_id": "house_caldris",
+    "name": "House Caldris",
+    "region": "Valedorn",
+    "seat": "Greyseal Court / Rookhaven",
+    "status_831C": "High house",
+    "summary": "House of law, records, Church alliance, river trade, guild contracts, tolls, and paper power.",
+    "associated_characters": [
+      "celene_caldris",
+      "mirelle_caldris",
+      "examiner_roland_caldris"
+    ],
+    "source_documents": [
+      "Lords and Ladies of Valedorn",
+      "Valedorn Duchies and Crown Marshals"
+    ]
+  },
+  {
+    "house_id": "house_daurien",
+    "name": "House D’Aurien",
+    "region": "Valedorn",
+    "seat": "Lornesse",
+    "status_831C": "High house",
+    "summary": "Scholarly, elegant, quietly suspect house of observatories, refined salons, sealed studies, mage oversight, and ruins.",
+    "associated_characters": [
+      "mirelle_daurien",
+      "celene_daurien",
+      "magister_celene_daurien"
+    ],
+    "source_documents": [
+      "Lords and Ladies of Valedorn",
+      "Valedorn Duchies and Crown Marshals",
+      "Crownward of Aurelis Canon Reference"
+    ]
+  },
+  {
+    "house_id": "house_halwen",
+    "name": "House Halwen",
+    "region": "Valedorn",
+    "seat": "Velmara",
+    "status_831C": "High house",
+    "summary": "Saint-linked and religiously prestigious house tied to relics, hospitals, seminaries, and pilgrimage roads.",
+    "associated_characters": [
+      "roselle_halwen",
+      "sabine_halwen",
+      "father_lucien_halwen"
+    ],
+    "source_documents": [
+      "Lords and Ladies of Valedorn",
+      "Valedorn Duchies and Crown Marshals"
+    ]
+  },
+  {
+    "house_id": "house_merrowyn",
+    "name": "House Merrowyn",
+    "region": "Valedorn",
+    "seat": "Aurelis",
+    "status_831C": "Extinct or ended royal dynasty",
+    "summary": "The first true royal dynasty of Valedorn; ended with Queen Mirelle I and the War of Three Mothers.",
+    "associated_characters": [
+      "alisanne_i_merrowyn",
+      "sabine_i_merrowyn",
+      "mirelle_i_merrowyn"
+    ],
+    "source_documents": [
+      "The Crowns of Valedorn",
+      "The War of Three Mothers"
+    ]
+  },
+  {
+    "house_id": "house_mirec",
+    "name": "House Mirec",
+    "region": "Valedorn",
+    "seat": "Dun Mirel / Reedbridge Hall",
+    "status_831C": "High house",
+    "summary": "Marsh-border funerary power tied to black-water custom, reed trade, burial law, and old suspicion; loyal but more distant from court after the war.",
+    "associated_characters": [
+      "sabine_mirec",
+      "katarin_mirec",
+      "osyra_mirec"
+    ],
+    "source_documents": [
+      "Lords and Ladies of Valedorn",
+      "Valedorn Duchies and Crown Marshals",
+      "The War of Three Mothers"
+    ]
+  },
+  {
+    "house_id": "house_montreve",
+    "name": "House Montreve",
+    "region": "Valedorn",
+    "seat": "Montreve Hall / Veilwood",
+    "status_831C": "High house",
+    "summary": "Rich agrarian and abbey-linked land power whose strength rests on grain, orchards, food roads, and fertile fields.",
+    "associated_characters": [
+      "elswyth_montreve",
+      "ameline_montreve",
+      "roselle_montreve_heavy_keys"
+    ],
+    "source_documents": [
+      "Lords and Ladies of Valedorn",
+      "Valedorn Duchies and Crown Marshals",
+      "The War of Three Mothers"
+    ]
+  },
+  {
+    "house_id": "house_serrant",
+    "name": "House Serrant",
+    "region": "Valedorn",
+    "seat": "Serrant Hold / Redwillow",
+    "status_831C": "High house",
+    "summary": "Military reformist house of levy discipline, royal roads, and practical fortifications; rose through service and war.",
+    "associated_characters": [
+      "elara_serrant",
+      "roselle_serrant",
+      "gavren_serrant"
+    ],
+    "source_documents": [
+      "Lords and Ladies of Valedorn",
+      "Valedorn Duchies and Crown Marshals",
+      "The Crowns of Valedorn"
+    ]
+  },
+  {
+    "house_id": "house_valemar",
+    "name": "House Valemar",
+    "region": "Valedorn",
+    "seat": "Valecourt / Falconmere",
+    "status_831C": "High house; royal right hand",
+    "summary": "Old royalist court house of polished prestige, court discipline, river manors, and marriage politics; became extremely close to House Aurellan after the War of Three Mothers.",
+    "associated_characters": [
+      "yselle_valemar_current",
+      "celene_valemar",
+      "renald_valemar",
+      "maerelle_valemar"
+    ],
+    "source_documents": [
+      "Lords and Ladies of Valedorn",
+      "Valedorn Duchies and Crown Marshals",
+      "Crownward of Aurelis Canon Reference",
+      "The War of Three Mothers"
+    ]
+  },
+  {
+    "house_id": "house_vargan",
+    "name": "House Vargan",
+    "region": "Valedorn",
+    "seat": "Varganhold / Northbank",
+    "status_831C": "High house",
+    "summary": "Rough northern-blooded war house associated with frontier defense, timber, hard cavalry, and hounds.",
+    "associated_characters": [
+      "ameline_vargan",
+      "yselle_vargan"
+    ],
+    "source_documents": [
+      "Lords and Ladies of Valedorn",
+      "Valedorn Duchies and Crown Marshals"
+    ]
+  }
+]

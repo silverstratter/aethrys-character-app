@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="theme-color" content="#21180f" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-title" content="Aethrys" />
+  <title>Aethrys Canon Registry</title>
+  <link rel="manifest" href="manifest.json" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="app-header">
+    <div>
+      <p class="eyebrow">Player-Facing Registry</p>
+      <h1>Aethrys Canon</h1>
+    </div>
+    <button id="installBtn" class="ghost hidden" type="button">Install</button>
+  </header>
+
+  <main>
+    <section class="search-card">
+      <label for="searchInput">Search character, house, title, region, faction, or role</label>
+      <div class="search-row">
+        <input id="searchInput" type="search" autocomplete="off" placeholder="Try: Elara, Valemar, Black Briar, Queen" />
+        <button id="clearBtn" type="button" aria-label="Clear search">×</button>
+      </div>
+      <div class="filters">
+        <select id="regionFilter"><option value="">All regions</option></select>
+        <select id="houseFilter"><option value="">All houses</option></select>
+        <select id="factionFilter"><option value="">All factions</option></select>
+      </div>
+    </section>
+
+    <nav class="tabbar" aria-label="Registry sections">
+      <button class="tab active" data-tab="characters">Characters</button>
+      <button class="tab" data-tab="houses">Houses</button>
+      <button class="tab" data-tab="regions">Regions</button>
+      <button class="tab" data-tab="factions">Factions</button>
+    </nav>
+
+    <section id="summary" class="summary"></section>
+    <section id="results" class="results"></section>
+  </main>
+
+  <dialog id="detailDialog">
+    <div class="dialog-shell">
+      <button id="closeDialog" class="close" type="button">Close</button>
+      <article id="detailContent"></article>
+    </div>
+  </dialog>
+
+  <footer>
+    <p>Player-facing data only. Unknown or uncertain canon is marked where applicable.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
